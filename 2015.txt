@@ -1,0 +1,3864 @@
+DeAndre Hopkins
+QB	Ben Roethlisberger, Pit QB
+@NE
+L 21-28	19
+RB	Eddie Lacy, GB RB
+@Chi
+W 31-23	15
+RB	Matt Forte, NYJ RB
+Cle
+W 31-10	23
+WR	Antonio Brown, Pit WR
+@NE
+L 21-28	20
+WR	Eddie Royal, Chi WR
+GB
+L 23-31	0
+TE	Eric Ebron, Det TE
+@SD
+L 28-33	11
+FLEX	Jonathan Stewart, Car RB
+@Jax
+W 20-9	7
+D/ST	Bengals D/ST D/ST
+@Oak
+W 33-13	14
+K	Adam Vinatieri, Ind K
+@Buf
+L 14-27	-1
+Tom Brady
+QB	Sam Bradford, Phi QB
+@Atl
+L 24-26	14
+RB	Marshawn Lynch, Sea RB
+@StL
+L 31-34	12
+RB	C.J. Anderson, Den RB
+Bal
+W 19-13	3
+WR	Demaryius Thomas, Den WR
+Bal
+W 19-13	6
+WR	Dez Bryant, Dal WR
+NYG
+W 27-26	4
+TE	Travis Kelce, KC TE
+@Hou
+W 27-20	24
+FLEX	Brandin Cooks, NO WR
+@Ari
+L 19-31	4
+D/ST	Chiefs D/ST D/ST
+@Hou
+W 27-20	19
+K	Mason Crosby, GB K
+@Chi
+W 31-23	7
+Cam Newton
+QB	Ryan Tannehill, Mia QB
+@Wsh
+W 17-10	11
+RB	DeMarco Murray, Ten RB
+@TB
+W 42-14	13
+RB	Lamar Miller, Hou RB
+KC
+L 20-27	7
+WR	Andre Johnson, Ind WR
+@Buf
+L 14-27	2
+WR	Jarvis Landry, Mia WR
+@Wsh
+W 17-10	19
+TE	Greg Olsen, Car TE
+@Jax
+W 20-9	1
+FLEX	Vincent Jackson, TB WR
+Ten
+L 14-42	5
+D/ST	Texans D/ST D/ST
+KC
+L 20-27	3
+K	Dan Bailey, Dal K
+NYG
+W 27-26	9
+Rob Gronkowski
+QB	Russell Wilson, Sea QB
+@StL
+L 31-34	15
+RB	Adrian Peterson, Min RB
+@SF
+L 3-20	5
+RB	Carlos Hyde, SF RB
+Min
+W 20-3	30
+WR	DeAndre Hopkins, Hou WR
+KC
+L 20-27	23
+WR	Danny Amendola, NE WR
+Pit
+W 28-21	2
+TE	Rob Gronkowski, NE TE
+Pit
+W 28-21	27
+FLEX	Doug Martin, TB RB
+Ten
+L 14-42	5
+D/ST	Cardinals D/ST D/ST
+NO
+W 31-19	6
+K	Cody Parkey, Phi K
+@Atl
+L 24-26	5
+Aaron Rodgers
+QB	Matt Ryan, Atl QB
+Phi
+W 26-24	15
+RB	Mark Ingram, NO RB
+@Ari
+L 19-31	11
+RB	Frank Gore, Ind RB
+@Buf
+L 14-27	3
+WR	Julio Jones, Atl WR
+Phi
+W 26-24	27
+WR	Jordan Matthews, Phi WR
+@Atl
+L 24-26	11
+TE	Jimmy Graham, Sea TE
+@StL
+L 31-34	11
+FLEX	Ameer Abdullah, Det RB
+@SD
+L 28-33	25
+D/ST	Panthers D/ST D/ST
+@Jax
+W 20-9	26
+K	Steven Hauschka, Sea K
+@StL
+L 31-34	11
+Allen Robinson
+QB	Andrew Luck, Ind QB
+@Buf
+L 14-27	17
+RB	Jamaal Charles, KC RB
+@Hou
+W 27-20	15
+RB	Latavius Murray, Oak RB
+Cin
+L 13-33	7
+WR	Odell Beckham Jr., NYG WR
+@Dal
+L 26-27	4
+WR	Randall Cobb, GB WR
+@Chi
+W 31-23	9
+TE	Jordan Cameron, Mia TE
+@Wsh
+W 17-10	7
+FLEX	LeSean McCoy, Buf RB
+Ind
+W 27-14	8
+D/ST	Rams D/ST D/ST
+Sea
+W 34-31	27
+K	Stephen Gostkowski, NE K
+Pit
+W 28-21	4
+Adrian Peterson
+QB	Aaron Rodgers, GB QB
+@Chi
+W 31-23	22
+RB	Jeremy Hill, Cin RB
+@Oak
+W 33-13	18
+RB	Alfred Morris, Dal RB
+NYG
+W 27-26	13
+WR	Calvin Johnson, Det WR
+@SD
+L 28-33	3
+WR	Nelson Agholor, Phi WR
+@Atl
+L 24-26	0
+TE	Delanie Walker, Ten TE
+@TB
+W 42-14	10
+FLEX	Isaiah Crowell, Cle RB
+@NYJ
+L 10-31	3
+D/ST	Jets D/ST D/ST
+Cle
+W 31-10	18
+K	Matt Prater, Det K
+@SD
+L 28-33	4
+Lesean McCoy
+QB	Drew Brees, NO QB
+@Ari
+L 19-31	17
+RB	Joseph Randle, FA RB
+Car
+L 9-20	10
+RB	T.J. Yeldon, Jax RB
+Car
+L 9-20	6
+WR	A.J. Green, Cin WR
+@Oak
+W 33-13	6
+WR	Emmanuel Sanders, Den WR
+Bal
+W 19-13	8
+TE	Heath Miller, Pit TE
+@NE
+L 21-28	8
+FLEX	Julian Edelman, NE WR
+Pit
+W 28-21	9
+D/ST	Dolphins D/ST D/ST
+@Wsh
+W 17-10	26
+K	Dan Carpenter, Buf K
+Ind
+W 27-14	11
+LeVeon Bell
+QB	Peyton Manning, Den QB
+Bal
+W 19-13	5
+RB	Justin Forsett, Bal RB
+@Den
+L 13-19	5
+RB	DeAngelo Williams, Pit RB
+@NE
+L 21-28	13
+WR	T.Y. Hilton, Ind WR
+@Buf
+L 14-27	8
+WR	Keenan Allen, SD WR
+Det
+W 33-28	17
+TE	Dwayne Allen, Ind TE
+@Buf
+L 14-27	7
+FLEX	Tevin Coleman, Atl RB
+Phi
+W 26-24	8
+D/ST	Seahawks D/ST D/ST
+@StL
+L 31-34	29
+K	Justin Tucker, Bal K
+@Den
+L 13-19	10
+Demaryius Thomas
+QB	Matthew Stafford, Det QB
+@SD
+L 28-33	13
+RB	Joique Bell, Det RB
+@SD
+L 28-33	3
+RB	Alfred Blue, Hou RB
+KC
+L 20-27	4
+WR	DeSean Jackson, Wsh WR
+Mia
+L 10-17	0
+WR	Jeremy Maclin, KC WR
+@Hou
+W 27-20	5
+TE	Martellus Bennett, NE TE
+Pit
+W 28-21	11
+FLEX	Jason Witten, Dal TE
+NYG
+W 27-26	18
+D/ST	Broncos D/ST D/ST
+Bal
+W 19-13	20
+K	Matt Bryant, Atl K
+Phi
+W 26-24	17
+Tom Brady
+QB	Philip Rivers, SD QB
+@Cin
+L 19-24	14
+RB	Marshawn Lynch, Sea RB
+@GB
+L 17-27	6
+RB	C.J. Anderson, Den RB
+@KC
+W 31-24	2
+WR	Brandin Cooks, NO WR
+TB
+L 19-26	6
+WR	Demaryius Thomas, Den WR
+@KC
+W 31-24	12
+TE	Travis Kelce, KC TE
+Den
+L 24-31	5
+FLEX	Chris Ivory, Jax RB
+Mia
+W 23-20	5
+D/ST	Chiefs D/ST D/ST
+Den
+L 24-31	15
+K	Mason Crosby, GB K
+Sea
+W 27-17	16
+Cam Newton
+QB	Tom Brady, NE QB
+@Buf
+W 40-32	30
+RB	DeMarco Murray, Ten RB
+@Cle
+L 14-28	5
+RB	Lamar Miller, Hou RB
+@Car
+L 17-24	3
+WR	Andre Johnson, Ind WR
+NYJ
+L 7-20	2
+WR	Jarvis Landry, Mia WR
+@Jax
+L 20-23	14
+TE	Greg Olsen, Car TE
+Hou
+W 24-17	7
+FLEX	Kendall Wright, Ten WR
+@Cle
+L 14-28	1
+D/ST	Texans D/ST D/ST
+@Car
+L 17-24	12
+K	Dan Bailey, Dal K
+@Phi
+W 20-10	8
+Allen Robinson
+QB	Andrew Luck, Ind QB
+NYJ
+L 7-20	8
+RB	Jamaal Charles, KC RB
+Den
+L 24-31	15
+RB	Latavius Murray, Oak RB
+Bal
+W 37-33	14
+WR	Odell Beckham Jr., NYG WR
+Atl
+L 20-24	24
+WR	Randall Cobb, GB WR
+Sea
+W 27-17	12
+TE	Tyler Eifert, Cin TE
+SD
+W 24-19	10
+FLEX	LeSean McCoy, Buf RB
+NE
+L 32-40	10
+D/ST	Rams D/ST D/ST
+@Wsh
+L 10-24	5
+K	Stephen Gostkowski, NE K
+@Buf
+W 40-32	19
+LeVeon Bell
+QB	Peyton Manning, Den QB
+@KC
+W 31-24	20
+RB	Justin Forsett, Bal RB
+@Oak
+L 33-37	7
+RB	DeAngelo Williams, Pit RB
+SF
+W 43-18	26
+WR	Keenan Allen, SD WR
+@Cin
+L 19-24	-1
+WR	Larry Fitzgerald, Ari WR
+@Chi
+W 48-23	30
+TE	Dwayne Allen, Ind TE
+NYJ
+L 7-20	0
+FLEX	Tevin Coleman, Atl RB
+@NYG
+W 24-20	9
+D/ST	Seahawks D/ST D/ST
+@GB
+L 17-27	12
+K	Justin Tucker, Bal K
+@Oak
+L 33-37	15
+Demaryius Thomas
+QB	Matthew Stafford, Det QB
+@Min
+L 16-26	19
+RB	Alfred Blue, Hou RB
+@Car
+L 17-24	0
+RB	Khiry Robinson, NYJ RB
+@Ind
+W 20-7	4
+WR	Alshon Jeffery, Chi WR
+Ari
+L 23-48	0
+WR	Jeremy Maclin, KC WR
+Den
+L 24-31	5
+TE	Martellus Bennett, NE TE
+@Buf
+W 40-32	4
+FLEX	Jason Witten, Dal TE
+@Phi
+W 20-10	5
+D/ST	Broncos D/ST D/ST
+@KC
+W 31-24	23
+K	Matt Bryant, Atl K
+@NYG
+W 24-20	7
+Adrian Peterson
+QB	Aaron Rodgers, GB QB
+Sea
+W 27-17	21
+RB	Jeremy Hill, Cin RB
+SD
+W 24-19	-1
+RB	Alfred Morris, Dal RB
+@Phi
+W 20-10	6
+WR	Calvin Johnson, Det WR
+@Min
+L 16-26	14
+WR	Eric Decker, NYJ WR
+@Ind
+W 20-7	15
+TE	Larry Donnell, NYG TE
+Atl
+L 20-24	8
+FLEX	Rashad Jennings, NYG RB
+Atl
+L 20-24	2
+D/ST	Jets D/ST D/ST
+@Ind
+W 20-7	13
+K	Matt Prater, Det K
+@Min
+L 16-26	4
+Lesean McCoy
+QB	Drew Brees, NO QB
+TB
+L 19-26	12
+RB	Joseph Randle, FA RB
+Mia
+W 23-20	6
+RB	T.J. Yeldon, Jax RB
+Mia
+W 23-20	8
+WR	A.J. Green, Cin WR
+SD
+W 24-19	10
+WR	Emmanuel Sanders, Den WR
+@KC
+W 31-24	20
+TE	Heath Miller, Pit TE
+SF
+W 43-18	9
+FLEX	Julian Edelman, NE WR
+@Buf
+W 40-32	22
+D/ST	Dolphins D/ST D/ST
+@Jax
+L 20-23	6
+K	Dan Carpenter, Buf K
+NE
+L 32-40	1
+Rob Gronkowski
+QB	Russell Wilson, Sea QB
+@GB
+L 17-27	21
+RB	Adrian Peterson, Min RB
+Det
+W 26-16	17
+RB	Carlos Hyde, SF RB
+@Pit
+L 18-43	5
+WR	DeAndre Hopkins, Hou WR
+@Car
+L 17-24	5
+WR	Golden Tate, Det WR
+@Min
+L 16-26	8
+TE	Rob Gronkowski, NE TE
+@Buf
+W 40-32	18
+FLEX	Mike Wallace, Bal WR
+@Oak
+L 33-37	3
+D/ST	Cardinals D/ST D/ST
+@Chi
+W 48-23	29
+K	Cody Parkey, Phi K
+Dal
+L 10-20	5
+Aaron Rodgers
+QB	Matt Ryan, Atl QB
+@NYG
+W 24-20	19
+RB	Mark Ingram, NO RB
+TB
+L 19-26	9
+RB	Ameer Abdullah, Det RB
+@Min
+L 16-26	8
+WR	Julio Jones, Atl WR
+@NYG
+W 24-20	14
+WR	Jordan Matthews, Phi WR
+Dal
+L 10-20	14
+TE	Jimmy Graham, Sea TE
+@GB
+L 17-27	1
+FLEX	Terrance Williams, Dal WR
+@Phi
+W 20-10	15
+D/ST	Panthers D/ST D/ST
+Hou
+W 24-17	11
+K	Steven Hauschka, Sea K
+@GB
+L 17-27	7
+DeAndre Hopkins
+QB	Ben Roethlisberger, Pit QB
+SF
+W 43-18	31
+RB	Eddie Lacy, GB RB
+Sea
+W 27-17	0
+RB	Matt Forte, NYJ RB
+@Ind
+W 20-7	10
+WR	Antonio Brown, Pit WR
+SF
+W 43-18	29
+WR	Mike Evans, TB WR
+@NO
+W 26-19	0
+TE	Zach Ertz, Phi TE
+Dal
+L 10-20	1
+FLEX	John Brown, Ari WR
+@Chi
+W 48-23	4
+D/ST	Ravens D/ST D/ST
+@Oak
+L 33-37	-1
+K	Adam Vinatieri, Ind K
+NYJ
+L 7-20	0
+Tom Brady
+QB	Philip Rivers, SD QB
+@Min
+L 14-31	9
+RB	Marshawn Lynch, Sea RB
+Chi
+W 26-0	1
+RB	C.J. Anderson, Den RB
+@Det
+W 24-12	1
+WR	Demaryius Thomas, Den WR
+@Det
+W 24-12	14
+WR	Allen Robinson, Jax WR
+@NE
+L 17-51	6
+TE	Travis Kelce, KC TE
+@GB
+L 28-38	10
+FLEX	David Johnson, Ari RB
+SF
+W 47-7	3
+D/ST	Dolphins D/ST D/ST
+Buf
+L 14-41	1
+K	Mason Crosby, GB K
+KC
+W 38-28	9
+Lesean McCoy
+QB	Andy Dalton, Cin QB
+@Bal
+W 28-24	34
+RB	Joseph Randle, FA RB
+@NE
+L 17-51	27
+RB	T.J. Yeldon, Jax RB
+@NE
+L 17-51	3
+WR	A.J. Green, Cin WR
+@Bal
+W 28-24	39
+WR	Emmanuel Sanders, Den WR
+@Det
+W 24-12	9
+TE	Heath Miller, Pit TE
+@StL
+W 12-6	1
+FLEX	Julian Edelman, NE WR
+Jax
+W 51-17	8
+D/ST	Patriots D/ST D/ST
+Jax
+W 51-17	9
+K	Dan Carpenter, Buf K
+@Mia
+W 41-14	12
+DeAndre Hopkins
+QB	Ben Roethlisberger, Pit QB
+@StL
+W 12-6	5
+RB	Matt Forte, NYJ RB
+Phi
+L 17-24	7
+RB	Jonathan Stewart, Car RB
+NO
+W 27-22	5
+WR	Antonio Brown, Pit WR
+@StL
+W 12-6	11
+WR	Mike Evans, TB WR
+@Hou
+L 9-19	11
+TE	Eric Ebron, Det TE
+Den
+L 12-24	6
+FLEX	Donte Moncrief, Ind WR
+@Ten
+W 35-33	9
+D/ST	Bills D/ST D/ST
+@Mia
+W 41-14	14
+K	Adam Vinatieri, Ind K
+@Ten
+W 35-33	5
+Allen Robinson
+QB	Andrew Luck, Ind QB
+@Ten
+W 35-33	16
+RB	Jamaal Charles, KC RB
+@GB
+L 28-38	25
+RB	LeSean McCoy, Buf RB
+@Mia
+W 41-14	8
+WR	Odell Beckham Jr., NYG WR
+Wsh
+W 32-21	13
+WR	Randall Cobb, GB WR
+KC
+W 38-28	28
+TE	Tyler Eifert, Cin TE
+@Bal
+W 28-24	0
+FLEX	Latavius Murray, Oak RB
+@Cle
+W 27-20	21
+D/ST	Browns D/ST D/ST
+Oak
+L 20-27	-2
+K	Stephen Gostkowski, NE K
+Jax
+W 51-17	17
+LeVeon Bell
+QB	Peyton Manning, Den QB
+@Det
+W 24-12	20
+RB	Justin Forsett, Bal RB
+Cin
+L 24-28	2
+RB	Danny Woodhead, SD RB
+@Min
+L 14-31	4
+WR	T.Y. Hilton, Ind WR
+@Ten
+W 35-33	9
+WR	Keenan Allen, SD WR
+@Min
+L 14-31	26
+TE	Jared Cook, GB TE
+KC
+W 38-28	0
+FLEX	Larry Fitzgerald, Ari WR
+SF
+W 47-7	26
+D/ST	Seahawks D/ST D/ST
+Chi
+W 26-0	33
+K	Justin Tucker, Bal K
+Cin
+L 24-28	5
+Cam Newton
+QB	Tom Brady, NE QB
+Jax
+W 51-17	23
+RB	Lamar Miller, Hou RB
+TB
+W 19-9	5
+RB	Todd Gurley, StL RB
+Pit
+L 6-12	0
+WR	Andre Johnson, Ind WR
+@Ten
+W 35-33	0
+WR	Jarvis Landry, Mia WR
+Buf
+L 14-41	10
+TE	Greg Olsen, Car TE
+NO
+W 27-22	26
+FLEX	Kendall Wright, Ten WR
+Ind
+L 33-35	16
+D/ST	Texans D/ST D/ST
+TB
+W 19-9	10
+K	Dan Bailey, Dal K
+Atl
+L 28-39	4
+Rob Gronkowski
+QB	Russell Wilson, Sea QB
+Chi
+W 26-0	15
+RB	Adrian Peterson, Min RB
+SD
+W 31-14	26
+RB	Carlos Hyde, SF RB
+@Ari
+L 7-47	6
+WR	DeAndre Hopkins, Hou WR
+TB
+W 19-9	17
+WR	Golden Tate, Det WR
+Den
+L 12-24	5
+TE	Rob Gronkowski, NE TE
+Jax
+W 51-17	11
+FLEX	Tyler Lockett, Sea WR
+Chi
+W 26-0	16
+D/ST	Cardinals D/ST D/ST
+SF
+W 47-7	33
+K	Cody Parkey, Phi K
+@NYJ
+W 24-17	6
+Adrian Peterson
+QB	Aaron Rodgers, GB QB
+KC
+W 38-28	35
+RB	Jeremy Hill, Cin RB
+@Bal
+W 28-24	2
+RB	Melvin Gordon, SD RB
+@Min
+L 14-31	5
+WR	Calvin Johnson, Det WR
+Den
+L 12-24	7
+WR	Amari Cooper, Oak WR
+@Cle
+W 27-20	12
+TE	Larry Donnell, NYG TE
+Wsh
+W 32-21	3
+FLEX	Isaiah Crowell, Cle RB
+Oak
+L 20-27	3
+D/ST	Jets D/ST D/ST
+Phi
+L 17-24	19
+K	Matt Prater, Det K
+Den
+L 12-24	-1
+Demaryius Thomas
+QB	Tyrod Taylor, Buf QB
+@Mia
+W 41-14	24
+RB	Le'Veon Bell, Pit RB
+@StL
+W 12-6	19
+RB	Devonta Freeman, Atl RB
+@Dal
+W 39-28	38
+WR	Brandon Marshall, NYJ WR
+Phi
+L 17-24	15
+WR	Jeremy Maclin, KC WR
+@GB
+L 28-38	21
+TE	Martellus Bennett, NE TE
+Jax
+W 51-17	1
+FLEX	Sammy Watkins, Buf WR
+@Mia
+W 41-14	3
+D/ST	Broncos D/ST D/ST
+@Det
+W 24-12	18
+K	Matt Bryant, Atl K
+@Dal
+W 39-28	7
+Aaron Rodgers
+QB	Matt Ryan, Atl QB
+@Dal
+W 39-28	23
+RB	Mark Ingram, NO RB
+@Car
+L 22-27	15
+RB	Frank Gore, Ind RB
+@Ten
+W 35-33	20
+WR	Julio Jones, Atl WR
+@Dal
+W 39-28	30
+WR	Jordan Matthews, Phi WR
+@NYJ
+W 24-17	4
+TE	Jimmy Graham, Sea TE
+Chi
+W 26-0	14
+FLEX	Ameer Abdullah, Det RB
+Den
+L 12-24	9
+D/ST	Panthers D/ST D/ST
+NO
+W 27-22	5
+K	Steven Hauschka, Sea K
+Chi
+W 26-0	16
+Rob Gronkowski
+QB	Russell Wilson, Sea QB
+Det
+W 13-10	15
+RB	Adrian Peterson, Min RB
+@Den
+L 20-23	16
+RB	Carlos Hyde, SF RB
+GB
+L 3-17	2
+WR	DeAndre Hopkins, Hou WR
+@Atl
+L 21-48	16
+WR	Percy Harvin, Buf WR
+NYG
+L 10-24	5
+TE	Jordan Reed, Wsh TE
+Phi
+W 23-20	1
+FLEX	Tyler Lockett, Sea WR
+Det
+W 13-10	10
+D/ST	Cardinals D/ST D/ST
+StL
+L 22-24	5
+K	Josh Brown, NYG K
+@Buf
+W 24-10	4
+Tom Brady
+QB	Philip Rivers, SD QB
+Cle
+W 30-27	27
+RB	C.J. Anderson, Den RB
+Min
+W 23-20	6
+RB	David Johnson, Ari RB
+StL
+L 22-24	12
+WR	Demaryius Thomas, Den WR
+Min
+W 23-20	9
+WR	Allen Robinson, Jax WR
+@Ind
+L 13-16	8
+TE	Travis Kelce, KC TE
+@Cin
+L 21-36	2
+FLEX	Thomas Rawls, Sea RB
+Det
+W 13-10	4
+D/ST	Chiefs D/ST D/ST
+@Cin
+L 21-36	4
+K	Mason Crosby, GB K
+@SF
+W 17-3	4
+Aaron Rodgers
+QB	Matt Ryan, Atl QB
+Hou
+W 48-21	14
+RB	Mark Ingram, NO RB
+Dal
+W 26-20	12
+RB	Frank Gore, Ind RB
+Jax
+W 16-13	6
+WR	Jordan Matthews, Phi WR
+@Wsh
+L 20-23	5
+WR	James Jones, GB WR
+@SF
+W 17-3	9
+TE	Jimmy Graham, Sea TE
+Det
+W 13-10	2
+FLEX	Julio Jones, Atl WR
+Hou
+W 48-21	3
+D/ST	Panthers D/ST D/ST
+@TB
+W 37-23	17
+K	Steven Hauschka, Sea K
+Det
+W 13-10	11
+LeVeon Bell
+QB	Peyton Manning, Den QB
+Min
+W 23-20	8
+RB	Justin Forsett, Bal RB
+@Pit
+W 23-20	16
+RB	Chris Johnson, Ari RB
+StL
+L 22-24	9
+WR	T.Y. Hilton, Ind WR
+Jax
+W 16-13	6
+WR	Keenan Allen, SD WR
+Cle
+W 30-27	13
+TE	Charles Clay, Buf TE
+NYG
+L 10-24	12
+FLEX	Larry Fitzgerald, Ari WR
+StL
+L 22-24	7
+D/ST	Seahawks D/ST D/ST
+Det
+W 13-10	13
+K	Justin Tucker, Bal K
+@Pit
+W 23-20	15
+DeAndre Hopkins
+QB	Derek Carr, Oak QB
+@Chi
+L 20-22	11
+RB	Eddie Lacy, GB RB
+@SF
+W 17-3	9
+RB	Matt Forte, NYJ RB
+@Mia
+W 27-14	13
+WR	Antonio Brown, Pit WR
+Bal
+L 20-23	9
+WR	Mike Evans, TB WR
+Car
+L 23-37	3
+TE	Eric Ebron, Det TE
+@Sea
+L 10-13	2
+FLEX	Karlos Williams, Buf RB
+NYG
+L 10-24	13
+D/ST	Bills D/ST D/ST
+NYG
+L 10-24	11
+K	Adam Vinatieri, Ind K
+Jax
+W 16-13	12
+Demaryius Thomas
+QB	Tyrod Taylor, Buf QB
+NYG
+L 10-24	13
+RB	Le'Veon Bell, Pit RB
+Bal
+L 20-23	21
+RB	Devonta Freeman, Atl RB
+Hou
+W 48-21	32
+WR	Brandon Marshall, NYJ WR
+@Mia
+W 27-14	13
+WR	Jeremy Maclin, KC WR
+@Cin
+L 21-36	15
+TE	Martellus Bennett, NE TE
+@NO
+L 20-26	14
+FLEX	Jason Witten, Dal TE
+@NO
+L 20-26	5
+D/ST	Broncos D/ST D/ST
+Min
+W 23-20	14
+K	Matt Bryant, Atl K
+Hou
+W 48-21	6
+Cam Newton
+QB	Cam Newton, Car QB
+@TB
+W 37-23	15
+RB	Lamar Miller, Hou RB
+@Atl
+L 21-48	3
+RB	Todd Gurley, StL RB
+@Ari
+W 24-22	16
+WR	Andre Johnson, Ind WR
+Jax
+W 16-13	0
+WR	Jarvis Landry, Mia WR
+NYJ
+L 14-27	24
+TE	Greg Olsen, Car TE
+@TB
+W 37-23	2
+FLEX	Lance Dunbar, Dal RB
+@NO
+L 20-26	6
+D/ST	Texans D/ST D/ST
+@Atl
+L 21-48	7
+K	Dan Bailey, Dal K
+@NO
+L 20-26	8
+Adrian Peterson
+QB	Aaron Rodgers, GB QB
+@SF
+W 17-3	15
+RB	Jeremy Hill, Cin RB
+KC
+W 36-21	24
+RB	Melvin Gordon, SD RB
+Cle
+W 30-27	3
+WR	Calvin Johnson, Det WR
+@Sea
+L 10-13	3
+WR	Amari Cooper, Oak WR
+@Chi
+L 20-22	10
+TE	Larry Donnell, NYG TE
+@Buf
+W 24-10	3
+FLEX	Isaiah Crowell, Cle RB
+@SD
+L 27-30	12
+D/ST	Jets D/ST D/ST
+@Mia
+W 27-14	17
+K	Matt Prater, Det K
+@Sea
+L 10-13	5
+Lesean McCoy
+QB	Andy Dalton, Cin QB
+KC
+W 36-21	21
+RB	Joseph Randle, FA RB
+@Ind
+L 13-16	8
+RB	T.J. Yeldon, Jax RB
+@Ind
+L 13-16	11
+WR	A.J. Green, Cin WR
+KC
+W 36-21	8
+WR	Emmanuel Sanders, Den WR
+Min
+W 23-20	6
+TE	Jordan Cameron, Mia TE
+NYJ
+L 14-27	1
+FLEX	Steve Smith Sr., Bal WR
+@Pit
+W 23-20	2
+D/ST	Rams D/ST D/ST
+@Ari
+W 24-22	19
+K	Dan Carpenter, Buf K
+NYG
+L 10-24	5
+Allen Robinson
+QB	Carson Palmer, Ari QB
+StL
+L 22-24	17
+RB	Jamaal Charles, KC RB
+@Cin
+L 21-36	14
+RB	Latavius Murray, Oak RB
+@Chi
+L 20-22	5
+WR	Odell Beckham Jr., NYG WR
+@Buf
+W 24-10	3
+WR	Randall Cobb, GB WR
+@SF
+W 17-3	4
+TE	Tyler Eifert, Cin TE
+KC
+W 36-21	6
+FLEX	Michael Crabtree, Oak WR
+@Chi
+L 20-22	8
+D/ST	Colts D/ST D/ST
+Jax
+W 16-13	9
+K	Brandon McManus, Den K
+Min
+W 23-20	12
+Adrian Peterson
+QB	Aaron Rodgers, GB QB
+StL
+W 24-10	17
+RB	Alfred Morris, Dal RB
+NE
+L 6-30	1
+RB	Melvin Gordon, SD RB
+Pit
+L 20-24	7
+WR	Calvin Johnson, Det WR
+Ari
+L 17-42	6
+WR	Amari Cooper, Oak WR
+Den
+L 10-16	5
+TE	Larry Donnell, NYG TE
+SF
+W 30-27	9
+FLEX	Isaiah Crowell, Cle RB
+@Bal
+W 33-30	13
+D/ST	Ravens D/ST D/ST
+Cle
+L 30-33	14
+K	Matt Prater, Det K
+Ari
+L 17-42	6
+Tom Brady
+QB	Philip Rivers, SD QB
+Pit
+L 20-24	21
+RB	C.J. Anderson, Den RB
+@Oak
+W 16-10	3
+RB	Thomas Rawls, Sea RB
+@Cin
+L 24-27	26
+WR	Demaryius Thomas, Den WR
+@Oak
+W 16-10	5
+WR	Allen Robinson, Jax WR
+@TB
+L 31-38	19
+TE	Travis Kelce, KC TE
+Chi
+L 17-18	3
+FLEX	Brandin Cooks, NO WR
+@Phi
+L 17-39	17
+D/ST	Chiefs D/ST D/ST
+Chi
+L 17-18	14
+K	Mason Crosby, GB K
+StL
+W 24-10	6
+Allen Robinson
+QB	Carson Palmer, Ari QB
+@Det
+W 42-17	18
+RB	Jamaal Charles, KC RB
+Chi
+L 17-18	7
+RB	Dion Lewis, NE RB
+@Dal
+W 30-6	14
+WR	Odell Beckham Jr., NYG WR
+SF
+W 30-27	19
+WR	Randall Cobb, GB WR
+StL
+W 24-10	2
+TE	Tyler Eifert, Cin TE
+Sea
+W 27-24	21
+FLEX	Latavius Murray, Oak RB
+Den
+L 10-16	4
+D/ST	Packers D/ST D/ST
+StL
+W 24-10	22
+K	Stephen Gostkowski, NE K
+@Dal
+W 30-6	15
+Demaryius Thomas
+QB	Tyrod Taylor, Buf QB
+@Ten
+W 14-13	21
+RB	Le'Veon Bell, Pit RB
+@SD
+W 24-20	19
+RB	Devonta Freeman, Atl RB
+Wsh
+W 25-19	26
+WR	Alshon Jeffery, Chi WR
+@KC
+W 18-17	0
+WR	Jeremy Maclin, KC WR
+Chi
+L 17-18	8
+TE	Martellus Bennett, NE TE
+@Dal
+W 30-6	3
+FLEX	Sammy Watkins, Buf WR
+@Ten
+W 14-13	0
+D/ST	Broncos D/ST D/ST
+@Oak
+W 16-10	28
+K	Matt Bryant, Atl K
+Wsh
+W 25-19	6
+Cam Newton
+QB	Tom Brady, NE QB
+@Dal
+W 30-6	28
+RB	DeMarco Murray, Ten RB
+Buf
+L 13-14	17
+RB	Todd Gurley, StL RB
+@GB
+L 10-24	16
+WR	Kendall Wright, Ten WR
+Buf
+L 13-14	2
+WR	Leonard Hankerson, Buf WR
+@Ten
+W 14-13	1
+TE	Gary Barnidge, Cle TE
+@Bal
+W 33-30	20
+FLEX	Tavon Austin, StL WR
+@GB
+L 10-24	8
+D/ST	Texans D/ST D/ST
+Ind
+L 20-27	1
+K	Brandon McManus, Den K
+@Oak
+W 16-10	12
+Lesean McCoy
+QB	Drew Brees, NO QB
+@Phi
+L 17-39	16
+RB	T.J. Yeldon, Jax RB
+@TB
+L 31-38	12
+RB	Boobie Dixon, Buf RB
+@Ten
+W 14-13	3
+WR	A.J. Green, Cin WR
+Sea
+W 27-24	7
+WR	Emmanuel Sanders, Den WR
+@Oak
+W 16-10	12
+TE	Antonio Gates, SD TE
+Pit
+L 20-24	21
+FLEX	Julian Edelman, NE WR
+@Dal
+W 30-6	22
+D/ST	Patriots D/ST D/ST
+@Dal
+W 30-6	18
+K	Dan Carpenter, Buf K
+@Ten
+W 14-13	2
+LeVeon Bell
+QB	Peyton Manning, Den QB
+@Oak
+W 16-10	6
+RB	Justin Forsett, Bal RB
+Cle
+L 30-33	23
+RB	Arian Foster, Hou RB
+Ind
+L 20-27	11
+WR	T.Y. Hilton, Ind WR
+@Hou
+W 27-20	8
+WR	Keenan Allen, SD WR
+Pit
+L 20-24	5
+TE	Charles Clay, Buf TE
+@Ten
+W 14-13	0
+FLEX	Larry Fitzgerald, Ari WR
+@Det
+W 42-17	11
+D/ST	Seahawks D/ST D/ST
+@Cin
+L 24-27	13
+K	Justin Tucker, Bal K
+Cle
+L 30-33	5
+DeAndre Hopkins
+QB	Alex Smith, KC QB
+Chi
+L 17-18	13
+RB	Eddie Lacy, GB RB
+StL
+W 24-10	2
+RB	Matt Forte, NYJ RB
+@Ten
+W 14-13	16
+WR	Antonio Brown, Pit WR
+@SD
+W 24-20	6
+WR	Mike Evans, TB WR
+Jax
+W 38-31	4
+TE	Zach Ertz, Phi TE
+NO
+W 39-17	6
+FLEX	Rueben Randle, Phi WR
+NO
+W 39-17	4
+D/ST	Bills D/ST D/ST
+@Ten
+W 14-13	15
+K	Adam Vinatieri, Ind K
+@Hou
+W 27-20	11
+Rob Gronkowski
+QB	Russell Wilson, Sea QB
+@Cin
+L 24-27	12
+RB	Carlos Hyde, SF RB
+@NYG
+L 27-30	15
+RB	Doug Martin, TB RB
+Jax
+W 38-31	34
+WR	DeAndre Hopkins, Hou WR
+Ind
+L 20-27	17
+WR	Travis Benjamin, SD WR
+Pit
+L 20-24	8
+TE	Rob Gronkowski, NE TE
+@Dal
+W 30-6	6
+FLEX	Tyler Lockett, Sea WR
+@Cin
+L 24-27	4
+D/ST	Cardinals D/ST D/ST
+@Det
+W 42-17	15
+K	Josh Brown, NYG K
+SF
+W 30-27	13
+Aaron Rodgers
+QB	Matt Ryan, Atl QB
+Wsh
+W 25-19	6
+RB	Mark Ingram, NO RB
+@Phi
+L 17-39	6
+RB	Frank Gore, Ind RB
+@Hou
+W 27-20	15
+WR	Julio Jones, Atl WR
+Wsh
+W 25-19	12
+WR	Jordan Matthews, Phi WR
+NO
+W 39-17	4
+TE	Jimmy Graham, Sea TE
+@Cin
+L 24-27	3
+FLEX	James Jones, GB WR
+StL
+W 24-10	16
+D/ST	Giants D/ST D/ST
+SF
+W 30-27	8
+K	Steven Hauschka, Sea K
+@Cin
+L 24-27	6
+Lesean McCoy
+QB	Drew Brees, NO QB
+Atl
+W 31-21	17
+RB	Giovani Bernard, Cin RB
+@Buf
+W 34-21	13
+RB	Shane Vereen, NYG RB
+@Phi
+L 7-27	2
+WR	A.J. Green, Cin WR
+@Buf
+W 34-21	3
+WR	Emmanuel Sanders, Den WR
+@Cle
+W 26-23	21
+TE	Antonio Gates, SD TE
+@GB
+L 20-27	9
+FLEX	Julian Edelman, NE WR
+@Ind
+W 34-27	11
+D/ST	Patriots D/ST D/ST
+@Ind
+W 34-27	2
+K	Robbie Gould, Chi K
+@Det
+L 34-37	14
+Tom Brady
+QB	Philip Rivers, SD QB
+@GB
+L 20-27	30
+RB	Marshawn Lynch, Sea RB
+Car
+L 23-27	11
+RB	Chris Ivory, Jax RB
+Hou
+L 20-31	26
+WR	Demaryius Thomas, Den WR
+@Cle
+W 26-23	12
+WR	Allen Robinson, Jax WR
+Hou
+L 20-31	14
+TE	Travis Kelce, KC TE
+@Min
+L 10-16	8
+FLEX	C.J. Anderson, Den RB
+@Cle
+W 26-23	6
+D/ST	Chiefs D/ST D/ST
+@Min
+L 10-16	12
+K	Mason Crosby, GB K
+SD
+W 27-20	9
+Rob Gronkowski
+QB	Russell Wilson, Sea QB
+Car
+L 23-27	19
+RB	Adrian Peterson, Min RB
+KC
+W 16-10	6
+RB	Carlos Hyde, SF RB
+Bal
+W 25-20	5
+WR	DeAndre Hopkins, Hou WR
+@Jax
+W 31-20	27
+WR	Travis Benjamin, SD WR
+@GB
+L 20-27	15
+TE	Rob Gronkowski, NE TE
+@Ind
+W 34-27	11
+FLEX	Tyler Lockett, Sea WR
+Car
+L 23-27	4
+D/ST	Cardinals D/ST D/ST
+@Pit
+L 13-25	15
+K	Josh Brown, NYG K
+@Phi
+L 7-27	1
+Cam Newton
+QB	Tom Brady, NE QB
+@Ind
+W 34-27	23
+RB	DeMarco Murray, Ten RB
+Mia
+L 10-38	19
+RB	Lamar Miller, Hou RB
+@Jax
+W 31-20	18
+WR	Jarvis Landry, Mia WR
+@Ten
+W 38-10	12
+WR	Leonard Hankerson, Buf WR
+Cin
+L 21-34	3
+TE	Greg Olsen, Car TE
+@Sea
+W 27-23	20
+FLEX	Andre Johnson, Ind WR
+NE
+L 27-34	3
+D/ST	Texans D/ST D/ST
+@Jax
+W 31-20	17
+K	Brandon McManus, Den K
+@Cle
+W 26-23	13
+DeAndre Hopkins
+QB	Jay Cutler, Chi QB
+@Det
+L 34-37	20
+RB	Eddie Lacy, GB RB
+SD
+W 27-20	1
+RB	Matt Forte, NYJ RB
+Wsh
+W 34-20	16
+WR	Antonio Brown, Pit WR
+Ari
+W 25-13	2
+WR	Rueben Randle, Phi WR
+NYG
+W 27-7	4
+TE	Zach Ertz, Phi TE
+NYG
+W 27-7	4
+FLEX	Donte Moncrief, Ind WR
+NE
+L 27-34	12
+D/ST	Bills D/ST D/ST
+Cin
+L 21-34	5
+K	Adam Vinatieri, Ind K
+NE
+L 27-34	2
+Adrian Peterson
+QB	Aaron Rodgers, GB QB
+SD
+W 27-20	19
+RB	Jeremy Hill, Cin RB
+@Buf
+W 34-21	12
+RB	Melvin Gordon, SD RB
+@GB
+L 20-27	0
+WR	Calvin Johnson, Det WR
+Chi
+W 37-34	23
+WR	Eric Decker, NYJ WR
+Wsh
+W 34-20	9
+TE	Larry Donnell, NYG TE
+@Phi
+L 7-27	2
+FLEX	John Brown, Ari WR
+@Pit
+L 13-25	18
+D/ST	Jets D/ST D/ST
+Wsh
+W 34-20	14
+K	Matt Prater, Det K
+Chi
+W 37-34	13
+LeVeon Bell
+QB	Peyton Manning, Den QB
+@Cle
+W 26-23	12
+RB	Justin Forsett, Bal RB
+@SF
+L 20-25	9
+RB	Arian Foster, Hou RB
+@Jax
+W 31-20	16
+WR	T.Y. Hilton, Ind WR
+NE
+L 27-34	13
+WR	Keenan Allen, SD WR
+@GB
+L 20-27	16
+TE	Julius Thomas, Jax TE
+Hou
+L 20-31	13
+FLEX	Larry Fitzgerald, Ari WR
+@Pit
+L 13-25	9
+D/ST	Seahawks D/ST D/ST
+Car
+L 23-27	10
+K	Justin Tucker, Bal K
+@SF
+L 20-25	7
+Allen Robinson
+QB	Carson Palmer, Ari QB
+@Pit
+L 13-25	18
+RB	LeSean McCoy, Buf RB
+Cin
+L 21-34	15
+RB	Dion Lewis, NE RB
+@Ind
+W 34-27	3
+WR	Odell Beckham Jr., NYG WR
+@Phi
+L 7-27	12
+WR	Randall Cobb, GB WR
+SD
+W 27-20	3
+TE	Tyler Eifert, Cin TE
+@Buf
+W 34-21	9
+FLEX	Allen Hurns, Jax WR
+Hou
+L 20-31	9
+D/ST	Packers D/ST D/ST
+SD
+W 27-20	5
+K	Stephen Gostkowski, NE K
+@Ind
+W 34-27	11
+Aaron Rodgers
+QB	Matt Ryan, Atl QB
+@NO
+L 21-31	18
+RB	Mark Ingram, NO RB
+Atl
+W 31-21	17
+RB	Frank Gore, Ind RB
+NE
+L 27-34	8
+WR	Julio Jones, Atl WR
+@NO
+L 21-31	9
+WR	James Jones, GB WR
+SD
+W 27-20	9
+TE	Jimmy Graham, Sea TE
+Car
+L 23-27	15
+FLEX	LeGarrette Blount, NE RB
+@Ind
+W 34-27	22
+D/ST	Titans D/ST D/ST
+Mia
+L 10-38	8
+K	Steven Hauschka, Sea K
+Car
+L 23-27	14
+Demaryius Thomas
+QB	Blake Bortles, Jax QB
+Hou
+L 20-31	23
+RB	Le'Veon Bell, Pit RB
+Ari
+W 25-13	8
+RB	Devonta Freeman, Atl RB
+@NO
+L 21-31	28
+WR	Alshon Jeffery, Chi WR
+@Det
+L 34-37	21
+WR	Jeremy Maclin, KC WR
+@Min
+L 10-16	4
+TE	Martellus Bennett, NE TE
+@Ind
+W 34-27	5
+FLEX	Brandon Marshall, NYJ WR
+Wsh
+W 34-20	16
+D/ST	Broncos D/ST D/ST
+@Cle
+W 26-23	30
+K	Matt Bryant, Atl K
+@NO
+L 21-31	3
+Cam Newton
+QB	Tom Brady, NE QB
+NYJ
+W 30-23	30
+RB	DeMarco Murray, Ten RB
+Atl
+L 7-10	6
+RB	Lamar Miller, Hou RB
+@Mia
+L 26-44	42
+WR	Jarvis Landry, Mia WR
+Hou
+W 44-26	24
+WR	Tavon Austin, StL WR
+Cle
+W 24-6	7
+TE	Greg Olsen, Car TE
+Phi
+W 27-16	6
+FLEX	Todd Gurley, StL RB
+Cle
+W 24-6	28
+D/ST	Texans D/ST D/ST
+@Mia
+L 26-44	7
+K	Blair Walsh, Min K
+@Det
+W 28-19	19
+Tom Brady
+QB	Philip Rivers, SD QB
+Oak
+L 29-37	26
+RB	Marshawn Lynch, Sea RB
+@SF
+W 20-3	19
+RB	Chris Ivory, Jax RB
+Buf
+W 34-31	11
+WR	Allen Robinson, Jax WR
+Buf
+W 34-31	15
+WR	Jeremy Ross, NYJ WR
+@NE
+L 23-30	0
+TE	Travis Kelce, KC TE
+Pit
+W 23-13	7
+FLEX	Ted Ginn Jr., Car WR
+Phi
+W 27-16	9
+D/ST	Chiefs D/ST D/ST
+Pit
+W 23-13	20
+K	Chandler Catanzaro, Ari K
+Bal
+W 26-18	6
+Rob Gronkowski
+QB	Russell Wilson, Sea QB
+@SF
+W 20-3	12
+RB	Adrian Peterson, Min RB
+@Det
+W 28-19	10
+RB	Carlos Hyde, SF RB
+Sea
+L 3-20	4
+WR	DeAndre Hopkins, Hou WR
+@Mia
+L 26-44	5
+WR	Travis Benjamin, SD WR
+Oak
+L 29-37	2
+TE	Rob Gronkowski, NE TE
+NYJ
+W 30-23	17
+FLEX	Doug Martin, TB RB
+@Wsh
+L 30-31	17
+D/ST	Cardinals D/ST D/ST
+Bal
+W 26-18	10
+K	Josh Brown, NYG K
+Dal
+W 27-20	10
+Lesean McCoy
+QB	Drew Brees, NO QB
+@Ind
+W 27-21	12
+RB	Joseph Randle, FA RB
+Buf
+W 34-31	2
+RB	T.J. Yeldon, Jax RB
+Buf
+W 34-31	18
+WR	Julian Edelman, NE WR
+NYJ
+W 30-23	7
+WR	Steve Smith Sr., Bal WR
+@Ari
+L 18-26	7
+TE	Antonio Gates, SD TE
+Oak
+L 29-37	0
+FLEX	Rishard Matthews, Ten WR
+Atl
+L 7-10	16
+D/ST	Patriots D/ST D/ST
+NYJ
+W 30-23	14
+K	Josh Lambo, SD K
+Oak
+L 29-37	9
+LeVeon Bell
+QB	Brian Hoyer, Hou QB
+@Mia
+L 26-44	20
+RB	Justin Forsett, Bal RB
+@Ari
+L 18-26	9
+RB	Arian Foster, Hou RB
+@Mia
+L 26-44	23
+WR	T.Y. Hilton, Ind WR
+NO
+L 21-27	32
+WR	Keenan Allen, SD WR
+Oak
+L 29-37	8
+TE	Julius Thomas, Jax TE
+Buf
+W 34-31	0
+FLEX	Larry Fitzgerald, Ari WR
+Bal
+W 26-18	3
+D/ST	Seahawks D/ST D/ST
+@SF
+W 20-3	16
+K	Justin Tucker, Bal K
+@Ari
+L 18-26	5
+Aaron Rodgers
+QB	Matt Ryan, Atl QB
+@Ten
+W 10-7	10
+RB	Mark Ingram, NO RB
+@Ind
+W 27-21	21
+RB	Frank Gore, Ind RB
+NO
+L 21-27	7
+WR	Julio Jones, Atl WR
+@Ten
+W 10-7	15
+WR	Martavis Bryant, Pit WR
+@KC
+L 13-23	11
+TE	Jimmy Graham, Sea TE
+@SF
+W 20-3	3
+FLEX	Stefon Diggs, Min WR
+@Det
+W 28-19	17
+D/ST	Rams D/ST D/ST
+Cle
+W 24-6	27
+K	Steven Hauschka, Sea K
+@SF
+W 20-3	10
+Adrian Peterson
+QB	Matthew Stafford, Det QB
+Min
+L 19-28	18
+RB	Alfred Morris, Dal RB
+@NYG
+L 20-27	0
+RB	Rashad Jennings, NYG RB
+Dal
+W 27-20	1
+WR	Calvin Johnson, Det WR
+Min
+L 19-28	14
+WR	Eric Decker, NYJ WR
+@NE
+L 23-30	9
+TE	Delanie Walker, Ten TE
+Atl
+L 7-10	5
+FLEX	John Brown, Ari WR
+Bal
+W 26-18	12
+D/ST	Eagles D/ST D/ST
+@Car
+L 16-27	6
+K	Matt Prater, Det K
+Min
+L 19-28	7
+Allen Robinson
+QB	Andrew Luck, Ind QB
+NO
+L 21-27	28
+RB	Latavius Murray, Oak RB
+@SD
+W 37-29	14
+RB	LeSean McCoy, Buf RB
+@Jax
+L 31-34	9
+WR	Odell Beckham Jr., NYG WR
+Dal
+W 27-20	3
+WR	Allen Hurns, Jax WR
+Buf
+W 34-31	11
+TE	Jordan Cameron, Mia TE
+Hou
+W 44-26	2
+FLEX	Dion Lewis, NE RB
+NYJ
+W 30-23	0
+D/ST	Panthers D/ST D/ST
+Phi
+W 27-16	10
+K	Stephen Gostkowski, NE K
+NYJ
+W 30-23	13
+Demaryius Thomas
+QB	Blake Bortles, Jax QB
+Buf
+W 34-31	13
+RB	Le'Veon Bell, Pit RB
+@KC
+L 13-23	14
+RB	Devonta Freeman, Atl RB
+@Ten
+W 10-7	13
+WR	Brandon Marshall, NYJ WR
+@NE
+L 23-30	6
+WR	Jeremy Maclin, KC WR
+Pit
+W 23-13	0
+TE	Jason Witten, Dal TE
+@NYG
+L 20-27	7
+FLEX	Pierre Garcon, Wsh WR
+TB
+W 31-30	5
+D/ST	Redskins D/ST D/ST
+TB
+W 31-30	1
+K	Matt Bryant, Atl K
+@Ten
+W 10-7	3
+DeAndre Hopkins
+QB	Ryan Tannehill, Mia QB
+Hou
+W 44-26	36
+RB	Jonathan Stewart, Car RB
+Phi
+W 27-16	13
+RB	Matt Jones, Wsh RB
+TB
+W 31-30	4
+WR	Antonio Brown, Pit WR
+@KC
+L 13-23	13
+WR	Donte Moncrief, Ind WR
+NO
+L 21-27	9
+TE	Eric Ebron, Det TE
+Min
+L 19-28	14
+FLEX	Mike Evans, TB WR
+@Wsh
+L 30-31	24
+D/ST	Bills D/ST D/ST
+@Jax
+L 31-34	22
+K	Adam Vinatieri, Ind K
+NO
+L 21-27	3
+Tom Brady
+QB	Philip Rivers, SD QB
+@Bal
+L 26-29	28
+RB	Marshawn Lynch, Sea RB
+@Dal
+W 13-12	8
+RB	Chris Ivory, Jax RB
+GB
+W 29-10	3
+WR	Demaryius Thomas, Den WR
+GB
+W 29-10	17
+WR	Davante Adams, GB WR
+@Den
+L 10-29	0
+TE	Travis Kelce, KC TE
+Det
+W 45-10	10
+FLEX	David Johnson, Ari RB
+@Cle
+W 34-20	10
+D/ST	Chiefs D/ST D/ST
+Det
+W 45-10	26
+K	Robbie Gould, Chi K
+Min
+L 20-23	9
+Rob Gronkowski
+QB	Russell Wilson, Sea QB
+@Dal
+W 13-12	13
+RB	Adrian Peterson, Min RB
+@Chi
+W 23-20	11
+RB	Doug Martin, TB RB
+@Atl
+W 23-20	7
+WR	DeAndre Hopkins, Hou WR
+Ten
+W 20-6	15
+WR	Travis Benjamin, SD WR
+@Bal
+L 26-29	3
+TE	Rob Gronkowski, NE TE
+Mia
+W 36-7	19
+FLEX	Tyler Lockett, Sea WR
+@Dal
+W 13-12	5
+D/ST	Cardinals D/ST D/ST
+@Cle
+W 34-20	18
+K	Josh Brown, NYG K
+@NO
+L 49-52	7
+Demaryius Thomas
+QB	Alex Smith, KC QB
+Det
+W 45-10	26
+RB	Le'Veon Bell, Pit RB
+Cin
+L 10-16	5
+RB	Devonta Freeman, Atl RB
+TB
+L 20-23	12
+WR	Alshon Jeffery, Chi WR
+Min
+L 20-23	18
+WR	Jeremy Maclin, KC WR
+Det
+W 45-10	9
+TE	Martellus Bennett, NE TE
+Mia
+W 36-7	3
+FLEX	Brandon Marshall, NYJ WR
+@Oak
+L 20-34	11
+D/ST	Broncos D/ST D/ST
+GB
+W 29-10	13
+K	Matt Bryant, Atl K
+TB
+L 20-23	8
+Cam Newton
+QB	Tom Brady, NE QB
+Mia
+W 36-7	32
+RB	Lamar Miller, Hou RB
+Ten
+W 20-6	8
+RB	Todd Gurley, StL RB
+SF
+W 27-6	24
+WR	Jarvis Landry, Mia WR
+@NE
+L 7-36	13
+WR	Tavon Austin, StL WR
+SF
+W 27-6	24
+TE	Greg Olsen, Car TE
+Ind
+W 29-26	13
+FLEX	Gary Barnidge, Cle TE
+Ari
+L 20-34	11
+D/ST	Texans D/ST D/ST
+Ten
+W 20-6	23
+K	Blair Walsh, Min K
+@Chi
+W 23-20	13
+Allen Robinson
+QB	Carson Palmer, Ari QB
+@Cle
+W 34-20	32
+RB	Latavius Murray, Oak RB
+NYJ
+W 34-20	12
+RB	Darren McFadden, Dal RB
+Sea
+L 12-13	10
+WR	Odell Beckham Jr., NYG WR
+@NO
+L 49-52	35
+WR	Randall Cobb, GB WR
+@Den
+L 10-29	3
+TE	Tyler Eifert, Cin TE
+@Pit
+W 16-10	3
+FLEX	Dion Lewis, NE RB
+Mia
+W 36-7	16
+D/ST	Panthers D/ST D/ST
+Ind
+W 29-26	13
+K	Stephen Gostkowski, NE K
+Mia
+W 36-7	12
+Aaron Rodgers
+QB	Matt Ryan, Atl QB
+TB
+L 20-23	20
+RB	Mark Ingram, NO RB
+NYG
+W 52-49	11
+RB	Frank Gore, Ind RB
+@Car
+L 26-29	9
+WR	Julio Jones, Atl WR
+TB
+L 20-23	21
+WR	Martavis Bryant, Pit WR
+Cin
+L 10-16	4
+TE	Ladarius Green, Pit TE
+Cin
+L 10-16	1
+FLEX	Stefon Diggs, Min WR
+@Chi
+W 23-20	16
+D/ST	Rams D/ST D/ST
+SF
+W 27-6	13
+K	Steven Hauschka, Sea K
+@Dal
+W 13-12	6
+DeAndre Hopkins
+QB	Ryan Tannehill, Mia QB
+@NE
+L 7-36	9
+RB	Matt Forte, NYJ RB
+@Oak
+L 20-34	6
+RB	Jonathan Stewart, Car RB
+Ind
+W 29-26	12
+WR	Antonio Brown, Pit WR
+Cin
+L 10-16	10
+WR	Mike Evans, TB WR
+@Atl
+W 23-20	4
+TE	Eric Ebron, Det TE
+@KC
+L 10-45	2
+FLEX	Eddie Lacy, GB RB
+@Den
+L 10-29	9
+D/ST	Packers D/ST D/ST
+@Den
+L 10-29	-1
+K	Adam Vinatieri, Ind K
+@Car
+L 26-29	17
+LeVeon Bell
+QB	Brian Hoyer, Hou QB
+Ten
+W 20-6	18
+RB	Justin Forsett, Bal RB
+SD
+W 29-26	6
+RB	Chris Johnson, Ari RB
+@Cle
+W 34-20	7
+WR	T.Y. Hilton, Ind WR
+@Car
+L 26-29	2
+WR	Keenan Allen, SD WR
+@Bal
+L 26-29	9
+TE	Benjamin Watson, Bal TE
+SD
+W 29-26	21
+FLEX	Larry Fitzgerald, Ari WR
+@Cle
+W 34-20	12
+D/ST	Seahawks D/ST D/ST
+@Dal
+W 13-12	8
+K	Justin Tucker, Bal K
+SD
+W 29-26	20
+Lesean McCoy
+QB	Andy Dalton, Cin QB
+@Pit
+W 16-10	9
+RB	Giovani Bernard, Cin RB
+@Pit
+W 16-10	3
+RB	Antonio Andrews, Ten RB
+@Hou
+L 6-20	7
+WR	A.J. Green, Cin WR
+@Pit
+W 16-10	18
+WR	Emmanuel Sanders, Den WR
+GB
+W 29-10	4
+TE	Crockett Gillmore, Bal TE
+SD
+W 29-26	6
+FLEX	Julian Edelman, NE WR
+Mia
+W 36-7	23
+D/ST	Vikings D/ST D/ST
+@Chi
+W 23-20	19
+K	Josh Lambo, SD K
+@Bal
+L 26-29	9
+Adrian Peterson
+QB	Aaron Rodgers, GB QB
+@Den
+L 10-29	6
+RB	Jeremy Hill, Cin RB
+@Pit
+W 16-10	6
+RB	Rashad Jennings, NYG RB
+@NO
+L 49-52	8
+WR	Calvin Johnson, Det WR
+@KC
+L 10-45	8
+WR	Amari Cooper, Oak WR
+NYJ
+W 34-20	4
+TE	Delanie Walker, Ten TE
+@Hou
+L 6-20	6
+FLEX	John Brown, Ari WR
+@Cle
+W 34-20	0
+D/ST	Jets D/ST D/ST
+@Oak
+L 20-34	-2
+K	Matt Prater, Det K
+@KC
+L 10-45	4
+Aaron Rodgers
+QB	Eli Manning, NYG QB
+@TB
+W 32-18	12
+RB	Mark Ingram, NO RB
+Ten
+L 28-34	9
+RB	LeGarrette Blount, NE RB
+Wsh
+W 27-10	19
+WR	Julio Jones, Atl WR
+@SF
+L 16-17	14
+WR	Stefon Diggs, Min WR
+StL
+W 21-18	4
+TE	Julius Thomas, Jax TE
+@NYJ
+L 23-28	1
+FLEX	Martavis Bryant, Pit WR
+Oak
+W 38-35	9
+D/ST	Rams D/ST D/ST
+@Min
+L 18-21	7
+K	Graham Gano, Car K
+GB
+W 37-29	13
+Tom Brady
+QB	Philip Rivers, SD QB
+Chi
+L 19-22	15
+RB	Chris Ivory, Jax RB
+@NYJ
+L 23-28	16
+RB	Ronnie Hillman, Den RB
+@Ind
+L 24-27	0
+WR	Demaryius Thomas, Den WR
+@Ind
+L 24-27	5
+WR	Allen Robinson, Jax WR
+@NYJ
+L 23-28	13
+TE	Richard Rodgers, GB TE
+@Car
+L 29-37	13
+FLEX	Dez Bryant, Dal WR
+Phi
+L 27-33	17
+D/ST	Giants D/ST D/ST
+@TB
+W 32-18	16
+K	Robbie Gould, Chi K
+@SD
+W 22-19	0
+Demaryius Thomas
+QB	Derek Carr, Oak QB
+@Pit
+L 35-38	27
+RB	C.J. Spiller, NO RB
+Ten
+L 28-34	0
+RB	Devonta Freeman, Atl RB
+@SF
+L 16-17	13
+WR	Alshon Jeffery, Chi WR
+@SD
+W 22-19	16
+WR	Brandon Marshall, NYJ WR
+Jax
+W 28-23	10
+TE	Martellus Bennett, NE TE
+Wsh
+W 27-10	11
+FLEX	DeSean Jackson, Wsh WR
+@NE
+L 10-27	1
+D/ST	Broncos D/ST D/ST
+@Ind
+L 24-27	20
+K	Matt Bryant, Atl K
+@SF
+L 16-17	11
+LeVeon Bell
+QB	Peyton Manning, Den QB
+@Ind
+L 24-27	18
+RB	Danny Woodhead, SD RB
+Chi
+L 19-22	16
+RB	DeAngelo Williams, Pit RB
+Oak
+W 38-35	37
+WR	T.Y. Hilton, Ind WR
+Den
+W 27-24	8
+WR	Michael Crabtree, Oak WR
+@Pit
+L 35-38	23
+TE	Benjamin Watson, Bal TE
+@Car
+L 29-37	6
+FLEX	Malcom Floyd, SD WR
+Chi
+L 19-22	0
+D/ST	Eagles D/ST D/ST
+@Dal
+W 33-27	9
+K	Mason Crosby, GB K
+@Car
+L 29-37	3
+Lesean McCoy
+QB	Andy Dalton, Cin QB
+Cle
+W 31-10	21
+RB	Giovani Bernard, Cin RB
+Cle
+W 31-10	8
+RB	Antonio Andrews, Ten RB
+@NO
+W 34-28	10
+WR	A.J. Green, Cin WR
+Cle
+W 31-10	5
+WR	Emmanuel Sanders, Den WR
+@Ind
+L 24-27	18
+TE	Jordan Reed, Wsh TE
+@NE
+L 10-27	7
+FLEX	Julian Edelman, NE WR
+Wsh
+W 27-10	9
+D/ST	Vikings D/ST D/ST
+StL
+W 21-18	14
+K	Josh Lambo, SD K
+Chi
+L 19-22	6
+Cam Newton
+QB	Tom Brady, NE QB
+Wsh
+W 27-10	17
+RB	Lamar Miller, Hou RB
+@Ind
+L 24-27	25
+RB	Todd Gurley, StL RB
+@Min
+L 18-21	16
+WR	Jarvis Landry, Mia WR
+@Buf
+L 17-33	9
+WR	Tavon Austin, StL WR
+@Min
+L 18-21	9
+TE	Greg Olsen, Car TE
+GB
+W 37-29	12
+FLEX	DeMarco Murray, Ten RB
+@NO
+W 34-28	21
+D/ST	Patriots D/ST D/ST
+Wsh
+W 27-10	11
+K	Brandon McManus, Den K
+@Ind
+L 24-27	6
+Adrian Peterson
+QB	Aaron Rodgers, GB QB
+@Car
+L 29-37	36
+RB	Jeremy Hill, Cin RB
+Cle
+W 31-10	5
+RB	Rashad Jennings, NYG RB
+@TB
+W 32-18	4
+WR	Amari Cooper, Oak WR
+@Pit
+L 35-38	14
+WR	Nelson Agholor, Phi WR
+@Dal
+W 33-27	0
+TE	Delanie Walker, Ten TE
+@NO
+W 34-28	26
+FLEX	Melvin Gordon, SD RB
+Chi
+L 19-22	5
+D/ST	Jets D/ST D/ST
+Jax
+W 28-23	26
+K	Caleb Sturgis, Phi K
+@Dal
+W 33-27	11
+Rob Gronkowski
+QB	Jameis Winston, TB QB
+NYG
+L 18-32	17
+RB	Adrian Peterson, Min RB
+StL
+W 21-18	20
+RB	Doug Martin, TB RB
+NYG
+L 18-32	2
+WR	Travis Benjamin, SD WR
+Chi
+L 19-22	2
+WR	Ted Ginn Jr., Car WR
+GB
+W 37-29	5
+TE	Rob Gronkowski, NE TE
+Wsh
+W 27-10	4
+FLEX	Mike Wallace, Bal WR
+Cle
+BYE 0-0	0
+D/ST	Bengals D/ST D/ST
+Cle
+W 31-10	9
+K	Josh Brown, NYG K
+@TB
+W 32-18	17
+Allen Robinson
+QB	Andrew Luck, Ind QB
+Den
+W 27-24	21
+RB	LeSean McCoy, Buf RB
+Mia
+W 33-17	19
+RB	Dion Lewis, NE RB
+Wsh
+W 27-10	4
+WR	Odell Beckham Jr., NYG WR
+@TB
+W 32-18	11
+WR	Brandin Cooks, NO WR
+Ten
+L 28-34	13
+TE	Tyler Eifert, Cin TE
+Cle
+W 31-10	23
+FLEX	Darren McFadden, Dal RB
+Phi
+L 27-33	12
+D/ST	Falcons D/ST D/ST
+@SF
+L 16-17	23
+K	Stephen Gostkowski, NE K
+Wsh
+W 27-10	9
+DeAndre Hopkins
+QB	Ben Roethlisberger, Pit QB
+Oak
+W 38-35	22
+RB	Eddie Lacy, GB RB
+@Car
+L 29-37	-1
+RB	Jonathan Stewart, Car RB
+GB
+W 37-29	6
+WR	Antonio Brown, Pit WR
+Oak
+W 38-35	30
+WR	Mike Evans, TB WR
+NYG
+L 18-32	14
+TE	Charles Clay, Buf TE
+Mia
+W 33-17	0
+FLEX	Karlos Williams, Buf RB
+Mia
+W 33-17	24
+D/ST	Packers D/ST D/ST
+@Car
+L 29-37	4
+K	Adam Vinatieri, Ind K
+Den
+W 27-24	12
+Tom Brady
+QB	Blake Bortles, Jax QB
+@Bal
+W 22-20	15
+RB	Marshawn Lynch, Sea RB
+Ari
+L 32-39	10
+RB	Chris Ivory, Jax RB
+@Bal
+W 22-20	10
+WR	Demaryius Thomas, Den WR
+KC
+L 13-29	7
+WR	Allen Robinson, Jax WR
+@Bal
+W 22-20	11
+TE	Travis Kelce, KC TE
+@Den
+W 29-13	3
+FLEX	Dez Bryant, Dal WR
+@TB
+L 6-10	4
+D/ST	Broncos D/ST D/ST
+KC
+L 13-29	2
+K	Connor Barth, TB K
+Dal
+W 10-6	5
+Adrian Peterson
+QB	Aaron Rodgers, GB QB
+Det
+L 16-18	22
+RB	Jeremy Hill, Cin RB
+Hou
+L 6-10	1
+RB	Rashad Jennings, NYG RB
+NE
+L 26-27	4
+WR	Amari Cooper, Oak WR
+Min
+L 14-30	7
+WR	Eric Decker, NYJ WR
+Buf
+L 17-22	14
+TE	Delanie Walker, Ten TE
+Car
+L 10-27	5
+FLEX	Calvin Johnson, Det WR
+@GB
+W 18-16	8
+D/ST	Jets D/ST D/ST
+Buf
+L 17-22	11
+K	Caleb Sturgis, Phi K
+Mia
+L 19-20	4
+Lesean McCoy
+QB	Drew Brees, NO QB
+@Wsh
+L 14-47	15
+RB	Giovani Bernard, Cin RB
+Hou
+L 6-10	7
+RB	T.J. Yeldon, Jax RB
+@Bal
+W 22-20	6
+WR	A.J. Green, Cin WR
+Hou
+L 6-10	4
+WR	Julian Edelman, NE WR
+@NYG
+W 27-26	5
+TE	Jordan Reed, Wsh TE
+NO
+W 47-14	14
+FLEX	Jordan Matthews, Phi WR
+Mia
+L 19-20	2
+D/ST	Vikings D/ST D/ST
+@Oak
+W 30-14	23
+K	Chandler Catanzaro, Ari K
+@Sea
+W 39-32	15
+Demaryius Thomas
+QB	Derek Carr, Oak QB
+Min
+L 14-30	18
+RB	Ronnie Hillman, Den RB
+KC
+L 13-29	10
+RB	Charcandrick West, KC RB
+@Den
+W 29-13	30
+WR	Alshon Jeffery, Chi WR
+@StL
+W 37-13	2
+WR	Brandon Marshall, NYJ WR
+Buf
+L 17-22	8
+TE	Martellus Bennett, NE TE
+@NYG
+W 27-26	1
+FLEX	DeSean Jackson, Wsh WR
+NO
+W 47-14	4
+D/ST	Packers D/ST D/ST
+Det
+L 16-18	11
+K	Sebastian Janikowski, Oak K
+Min
+L 14-30	2
+DeAndre Hopkins
+QB	Kirk Cousins, Wsh QB
+NO
+W 47-14	32
+RB	Jonathan Stewart, Car RB
+@Ten
+W 27-10	15
+RB	James Starks, GB RB
+Det
+L 16-18	9
+WR	Antonio Brown, Pit WR
+Cle
+W 30-9	31
+WR	Mike Evans, TB WR
+Dal
+W 10-6	13
+TE	Eric Ebron, Det TE
+@GB
+W 18-16	2
+FLEX	Karlos Williams, Buf RB
+@NYJ
+W 22-17	10
+D/ST	Bills D/ST D/ST
+@NYJ
+W 22-17	19
+K	Dan Bailey, Dal K
+@TB
+L 6-10	8
+Aaron Rodgers
+QB	Eli Manning, NYG QB
+NE
+L 26-27	25
+RB	Mark Ingram, NO RB
+@Wsh
+L 14-47	9
+RB	LeGarrette Blount, NE RB
+@NYG
+W 27-26	13
+WR	James Jones, GB WR
+Det
+L 16-18	0
+WR	Stefon Diggs, Min WR
+@Oak
+W 30-14	5
+TE	Jimmy Graham, Sea TE
+Ari
+L 32-39	4
+FLEX	Martavis Bryant, Pit WR
+Cle
+W 30-9	22
+D/ST	Rams D/ST D/ST
+Chi
+L 13-37	5
+K	Steven Hauschka, Sea K
+Ari
+L 32-39	9
+Cam Newton
+QB	Tom Brady, NE QB
+@NYG
+W 27-26	21
+RB	Lamar Miller, Hou RB
+@Cin
+W 10-6	15
+RB	Todd Gurley, StL RB
+Chi
+L 13-37	14
+WR	Jarvis Landry, Mia WR
+@Phi
+W 20-19	11
+WR	Tavon Austin, StL WR
+Chi
+L 13-37	2
+TE	Greg Olsen, Car TE
+@Ten
+W 27-10	8
+FLEX	DeMarco Murray, Ten RB
+Car
+L 10-27	11
+D/ST	Patriots D/ST D/ST
+@NYG
+W 27-26	17
+K	Brandon McManus, Den K
+KC
+L 13-29	1
+Allen Robinson
+QB	Carson Palmer, Ari QB
+@Sea
+W 39-32	21
+RB	Latavius Murray, Oak RB
+Min
+L 14-30	6
+RB	Darren McFadden, Dal RB
+@TB
+L 6-10	5
+WR	Odell Beckham Jr., NYG WR
+NE
+L 26-27	20
+WR	Randall Cobb, GB WR
+Det
+L 16-18	5
+TE	Tyler Eifert, Cin TE
+Hou
+L 6-10	2
+FLEX	Jeremy Langford, Chi RB
+@StL
+W 37-13	33
+D/ST	Steelers D/ST D/ST
+Cle
+W 30-9	15
+K	Stephen Gostkowski, NE K
+@NYG
+W 27-26	11
+Rob Gronkowski
+QB	Russell Wilson, Sea QB
+Ari
+L 32-39	16
+RB	Adrian Peterson, Min RB
+@Oak
+W 30-14	32
+RB	Doug Martin, TB RB
+Dal
+W 10-6	10
+WR	DeAndre Hopkins, Hou WR
+@Cin
+W 10-6	11
+WR	Tyler Lockett, Sea WR
+Ari
+L 32-39	10
+TE	Rob Gronkowski, NE TE
+@NYG
+W 27-26	21
+FLEX	Travis Benjamin, SD WR
+@Sea
+W 39-32	12
+D/ST	Cardinals D/ST D/ST
+@Sea
+W 39-32	17
+K	Josh Brown, NYG K
+NE
+L 26-27	16
+LeVeon Bell
+QB	Brian Hoyer, Hou QB
+@Cin
+W 10-6	3
+RB	Justin Forsett, Bal RB
+Jax
+L 20-22	6
+RB	DeAngelo Williams, Pit RB
+Cle
+W 30-9	6
+WR	Larry Fitzgerald, Ari WR
+@Sea
+W 39-32	14
+WR	Michael Crabtree, Oak WR
+Min
+L 14-30	5
+TE	Benjamin Watson, Bal TE
+Jax
+L 20-22	1
+FLEX	Chris Johnson, Ari RB
+@Sea
+W 39-32	5
+D/ST	Eagles D/ST D/ST
+Mia
+L 19-20	18
+K	Justin Tucker, Bal K
+Jax
+L 20-22	1
+Tom Brady
+QB	Philip Rivers, SD QB
+KC
+L 3-33	5
+RB	Marshawn Lynch, Sea RB
+SF
+W 29-13	0
+RB	Chris Ivory, Jax RB
+Ten
+W 19-13	3
+WR	Demaryius Thomas, Den WR
+@Chi
+W 17-15	12
+WR	Allen Robinson, Jax WR
+Ten
+W 19-13	12
+TE	Travis Kelce, KC TE
+@SD
+W 33-3	4
+FLEX	Dez Bryant, Dal WR
+@Mia
+W 24-14	10
+D/ST	Broncos D/ST D/ST
+@Chi
+W 17-15	11
+K	Connor Barth, TB K
+@Phi
+W 45-17	9
+LeVeon Bell
+QB	Tyrod Taylor, Buf QB
+@NE
+L 13-20	9
+RB	Justin Forsett, Bal RB
+StL
+W 16-13	2
+RB	Chris Johnson, Ari RB
+Cin
+W 34-31	6
+WR	Larry Fitzgerald, Ari WR
+Cin
+W 34-31	9
+WR	Michael Crabtree, Oak WR
+@Det
+L 13-18	5
+TE	Crockett Gillmore, Bal TE
+StL
+W 16-13	11
+FLEX	T.Y. Hilton, Ind WR
+@Atl
+W 24-21	2
+D/ST	Seahawks D/ST D/ST
+SF
+W 29-13	5
+K	Justin Tucker, Bal K
+StL
+W 16-13	9
+Demaryius Thomas
+QB	Derek Carr, Oak QB
+@Det
+L 13-18	6
+RB	Devonta Freeman, Atl RB
+Ind
+L 21-24	4
+RB	Charcandrick West, KC RB
+@SD
+W 33-3	5
+WR	Alshon Jeffery, Chi WR
+Den
+L 15-17	0
+WR	Brandon Marshall, NYJ WR
+@Hou
+L 17-24	10
+TE	Jason Witten, Dal TE
+@Mia
+W 24-14	2
+FLEX	Sammy Watkins, Buf WR
+@NE
+L 13-20	3
+D/ST	Packers D/ST D/ST
+@Min
+W 30-13	19
+K	Sebastian Janikowski, Oak K
+@Det
+L 13-18	10
+Allen Robinson
+QB	Carson Palmer, Ari QB
+Cin
+W 34-31	28
+RB	Latavius Murray, Oak RB
+@Det
+L 13-18	8
+RB	Jeremy Langford, Chi RB
+Den
+L 15-17	9
+WR	Randall Cobb, GB WR
+@Min
+W 30-13	8
+WR	Allen Hurns, Jax WR
+Ten
+W 19-13	1
+TE	Tyler Eifert, Cin TE
+@Ari
+L 31-34	14
+FLEX	Darren McFadden, Dal RB
+@Mia
+W 24-14	15
+D/ST	Eagles D/ST D/ST
+TB
+L 17-45	5
+K	Stephen Gostkowski, NE K
+Buf
+W 20-13	7
+Aaron Rodgers
+QB	Matt Ryan, Atl QB
+Ind
+L 21-24	17
+RB	LeGarrette Blount, NE RB
+Buf
+W 20-13	5
+RB	Ameer Abdullah, Det RB
+Oak
+W 18-13	9
+WR	Julio Jones, Atl WR
+Ind
+L 21-24	17
+WR	Stefon Diggs, Min WR
+GB
+L 13-30	6
+TE	Jimmy Graham, Sea TE
+SF
+W 29-13	3
+FLEX	Frank Gore, Ind RB
+@Atl
+W 24-21	5
+D/ST	Rams D/ST D/ST
+@Bal
+L 13-16	6
+K	Steven Hauschka, Sea K
+SF
+W 29-13	3
+Lesean McCoy
+QB	Tony Romo, Dal QB
+@Mia
+W 24-14	13
+RB	T.J. Yeldon, Jax RB
+Ten
+W 19-13	7
+RB	Andre Ellington, Ari RB
+Cin
+W 34-31	0
+WR	A.J. Green, Cin WR
+@Ari
+L 31-34	7
+WR	Brandon LaFell, Cin WR
+@Ari
+L 31-34	6
+TE	Antonio Gates, SD TE
+KC
+L 3-33	0
+FLEX	Jordan Matthews, Phi WR
+TB
+L 17-45	1
+D/ST	Vikings D/ST D/ST
+GB
+L 13-30	15
+K	Chandler Catanzaro, Ari K
+Cin
+W 34-31	10
+Rob Gronkowski
+QB	Russell Wilson, Sea QB
+SF
+W 29-13	25
+RB	Adrian Peterson, Min RB
+GB
+L 13-30	9
+RB	Doug Martin, TB RB
+@Phi
+W 45-17	25
+WR	DeAndre Hopkins, Hou WR
+NYJ
+W 24-17	27
+WR	Tyler Lockett, Sea WR
+SF
+W 29-13	16
+TE	Rob Gronkowski, NE TE
+Buf
+W 20-13	3
+FLEX	Ted Ginn Jr., Car WR
+Wsh
+W 44-16	10
+D/ST	Cardinals D/ST D/ST
+Cin
+W 34-31	14
+K	Cairo Santos, KC K
+@SD
+W 33-3	8
+DeAndre Hopkins
+QB	Alex Smith, KC QB
+@SD
+W 33-3	13
+RB	Jonathan Stewart, Car RB
+Wsh
+W 44-16	18
+RB	James Starks, GB RB
+@Min
+W 30-13	4
+WR	Mike Evans, TB WR
+@Phi
+W 45-17	12
+WR	Danny Amendola, NE WR
+Buf
+W 20-13	15
+TE	Eric Ebron, Det TE
+Oak
+W 18-13	0
+FLEX	Dexter McCluster, Ten WR, RB
+@Jax
+L 13-19	3
+D/ST	Panthers D/ST D/ST
+Wsh
+W 44-16	22
+K	Dan Bailey, Dal K
+@Mia
+W 24-14	6
+Adrian Peterson
+QB	Matthew Stafford, Det QB
+Oak
+W 18-13	20
+RB	Jeremy Hill, Cin RB
+@Ari
+L 31-34	16
+RB	Melvin Gordon, SD RB
+KC
+L 3-33	4
+WR	Amari Cooper, Oak WR
+@Det
+L 13-18	1
+WR	Eric Decker, NYJ WR
+@Hou
+L 17-24	8
+TE	Delanie Walker, Ten TE
+@Jax
+L 13-19	11
+FLEX	Calvin Johnson, Det WR
+Oak
+W 18-13	8
+D/ST	Jets D/ST D/ST
+@Hou
+L 17-24	14
+K	Caleb Sturgis, Phi K
+TB
+L 17-45	6
+Cam Newton
+QB	Cam Newton, Car QB
+Wsh
+W 44-16	30
+RB	Lamar Miller, Hou RB
+NYJ
+W 24-17	5
+RB	Todd Gurley, StL RB
+@Bal
+L 13-16	10
+WR	Jarvis Landry, Mia WR
+Dal
+L 14-24	10
+WR	Tavon Austin, StL WR
+@Bal
+L 13-16	-1
+TE	Greg Olsen, Car TE
+Wsh
+W 44-16	11
+FLEX	DeMarco Murray, Ten RB
+@Jax
+L 13-19	6
+D/ST	Patriots D/ST D/ST
+Buf
+W 20-13	11
+K	Blair Walsh, Min K
+GB
+L 13-30	0
+Tom Brady
+QB	Blake Bortles, Jax QB
+SD
+L 25-31	23
+RB	Chris Ivory, Jax RB
+SD
+L 25-31	15
+RB	Thomas Rawls, Sea RB
+Pit
+W 39-30	14
+WR	Demaryius Thomas, Den WR
+NE
+W 30-24	3
+WR	Allen Robinson, Jax WR
+SD
+L 25-31	11
+TE	Travis Kelce, KC TE
+Buf
+W 30-22	12
+FLEX	Dez Bryant, Dal WR
+Car
+L 14-33	2
+D/ST	Chiefs D/ST D/ST
+Buf
+W 30-22	12
+K	Connor Barth, TB K
+@Ind
+L 12-25	4
+Demaryius Thomas
+QB	Derek Carr, Oak QB
+@Ten
+W 24-21	24
+RB	Duke Johnson Jr., Cle RB
+Bal
+L 27-33	4
+RB	Ronnie Hillman, Den RB
+NE
+W 30-24	11
+WR	Alshon Jeffery, Chi WR
+@GB
+W 17-13	9
+WR	Brandon Marshall, NYJ WR
+Mia
+W 38-20	26
+TE	Jason Witten, Dal TE
+Car
+L 14-33	3
+FLEX	Sammy Watkins, Buf WR
+@KC
+L 22-30	28
+D/ST	Packers D/ST D/ST
+Chi
+L 13-17	12
+K	Sebastian Janikowski, Oak K
+@Ten
+W 24-21	6
+Cam Newton
+QB	Cam Newton, Car QB
+@Dal
+W 33-14	17
+RB	Lamar Miller, Hou RB
+NO
+W 24-6	1
+RB	Todd Gurley, StL RB
+@Cin
+L 7-31	2
+WR	Jarvis Landry, Mia WR
+@NYJ
+L 20-38	23
+WR	Tavon Austin, StL WR
+@Cin
+L 7-31	15
+TE	Greg Olsen, Car TE
+@Dal
+W 33-14	7
+FLEX	DeMarco Murray, Ten RB
+Oak
+L 21-24	3
+D/ST	Patriots D/ST D/ST
+@Den
+L 24-30	3
+K	Blair Walsh, Min K
+@Atl
+W 20-10	7
+Aaron Rodgers
+QB	Eli Manning, NYG QB
+@Wsh
+L 14-20	16
+RB	Mark Ingram, NO RB
+@Hou
+L 6-24	9
+RB	Ameer Abdullah, Det RB
+Phi
+W 45-14	9
+WR	Julio Jones, Atl WR
+Min
+L 10-20	5
+WR	Martavis Bryant, Pit WR
+@Sea
+L 30-39	13
+TE	Jimmy Graham, Sea TE
+Pit
+W 39-30	7
+FLEX	Javorius Allen, Bal RB
+@Cle
+W 33-27	13
+D/ST	Rams D/ST D/ST
+@Cin
+L 7-31	6
+K	Steven Hauschka, Sea K
+Pit
+W 39-30	2
+LeVeon Bell
+QB	Brian Hoyer, Hou QB
+NO
+W 24-6	14
+RB	Chris Johnson, Ari RB
+@SF
+W 19-13	1
+RB	DeAngelo Williams, Pit RB
+@Sea
+L 30-39	16
+WR	Larry Fitzgerald, Ari WR
+@SF
+W 19-13	6
+WR	Michael Crabtree, Oak WR
+@Ten
+W 24-21	7
+TE	Benjamin Watson, Bal TE
+@Cle
+W 33-27	5
+FLEX	T.Y. Hilton, Ind WR
+TB
+W 25-12	21
+D/ST	Seahawks D/ST D/ST
+Pit
+W 39-30	17
+K	Justin Tucker, Bal K
+@Cle
+W 33-27	10
+Adrian Peterson
+QB	Matthew Stafford, Det QB
+Phi
+W 45-14	35
+RB	Jeremy Hill, Cin RB
+StL
+W 31-7	9
+RB	Melvin Gordon, SD RB
+@Jax
+W 31-25	8
+WR	Amari Cooper, Oak WR
+@Ten
+W 24-21	12
+WR	Eric Decker, NYJ WR
+Mia
+W 38-20	12
+TE	Delanie Walker, Ten TE
+Oak
+L 21-24	9
+FLEX	Calvin Johnson, Det WR
+Phi
+W 45-14	27
+D/ST	Jets D/ST D/ST
+Mia
+W 38-20	17
+K	Caleb Sturgis, Phi K
+@Det
+L 14-45	1
+Allen Robinson
+QB	Carson Palmer, Ari QB
+@SF
+W 19-13	16
+RB	LeSean McCoy, Buf RB
+@KC
+L 22-30	14
+RB	Darren McFadden, Dal RB
+Car
+L 14-33	7
+WR	Odell Beckham Jr., NYG WR
+@Wsh
+L 14-20	21
+WR	Brandin Cooks, NO WR
+@Hou
+L 6-24	3
+TE	Tyler Eifert, Cin TE
+StL
+W 31-7	10
+FLEX	Latavius Murray, Oak RB
+@Ten
+W 24-21	7
+D/ST	Eagles D/ST D/ST
+@Det
+L 14-45	-4
+K	Stephen Gostkowski, NE K
+@Den
+L 24-30	7
+Rob Gronkowski
+QB	Russell Wilson, Sea QB
+Pit
+W 39-30	38
+RB	Adrian Peterson, Min RB
+@Atl
+W 20-10	30
+RB	Doug Martin, TB RB
+@Ind
+L 12-25	9
+WR	DeAndre Hopkins, Hou WR
+NO
+W 24-6	3
+WR	Tyler Lockett, Sea WR
+Pit
+W 39-30	17
+TE	Rob Gronkowski, NE TE
+@Den
+L 24-30	14
+FLEX	Travis Benjamin, SD WR
+@Jax
+W 31-25	18
+D/ST	Cardinals D/ST D/ST
+@SF
+W 19-13	13
+K	Josh Brown, NYG K
+@Wsh
+L 14-20	2
+DeAndre Hopkins
+QB	Ben Roethlisberger, Pit QB
+@Sea
+L 30-39	26
+RB	Eddie Lacy, GB RB
+Chi
+L 13-17	18
+RB	Jonathan Stewart, Car RB
+@Dal
+W 33-14	6
+WR	Antonio Brown, Pit WR
+@Sea
+L 30-39	5
+WR	Mike Evans, TB WR
+@Ind
+L 12-25	6
+TE	Brent Celek, Phi TE
+@Det
+L 14-45	7
+FLEX	Matt Forte, NYJ RB
+Mia
+W 38-20	4
+D/ST	Bengals D/ST D/ST
+StL
+W 31-7	17
+K	Dan Bailey, Dal K
+Car
+L 14-33	7
+Lesean McCoy
+QB	Andy Dalton, Cin QB
+StL
+W 31-7	19
+RB	T.J. Yeldon, Jax RB
+SD
+L 25-31	7
+RB	Alfred Blue, Hou RB
+NO
+W 24-6	13
+WR	A.J. Green, Cin WR
+StL
+W 31-7	18
+WR	Brandon LaFell, Cin WR
+StL
+W 31-7	3
+TE	Jordan Reed, Wsh TE
+NYG
+W 20-14	9
+FLEX	Giovani Bernard, Cin RB
+StL
+W 31-7	6
+D/ST	Vikings D/ST D/ST
+@Atl
+W 20-10	11
+K	Chandler Catanzaro, Ari K
+@SF
+W 19-13	7
+Allen Robinson
+QB	Carson Palmer, Ari QB
+@StL
+W 27-3	23
+RB	LeSean McCoy, Buf RB
+Hou
+W 30-21	12
+RB	Darren McFadden, Dal RB
+@Wsh
+W 19-16	7
+WR	Odell Beckham Jr., NYG WR
+NYJ
+L 20-23	24
+WR	Brandin Cooks, NO WR
+Car
+L 38-41	20
+TE	Vance McDonald, SF TE
+@Chi
+W 26-20	1
+FLEX	Latavius Murray, Oak RB
+KC
+L 20-34	15
+D/ST	Redskins D/ST D/ST
+Dal
+L 16-19	19
+K	Stephen Gostkowski, NE K
+Phi
+L 28-35	4
+Tom Brady
+QB	Blake Bortles, Jax QB
+@Ten
+L 39-42	33
+RB	Chris Ivory, Jax RB
+@Ten
+L 39-42	4
+RB	Thomas Rawls, Sea RB
+@Min
+W 38-7	17
+WR	Demaryius Thomas, Den WR
+@SD
+W 17-3	12
+WR	Allen Robinson, Jax WR
+@Ten
+L 39-42	34
+TE	Travis Kelce, KC TE
+@Oak
+W 34-20	4
+FLEX	David Johnson, Ari RB
+@StL
+W 27-3	17
+D/ST	Broncos D/ST D/ST
+@SD
+W 17-3	27
+K	Graham Gano, Car K
+@NO
+W 41-38	4
+Demaryius Thomas
+QB	Derek Carr, Oak QB
+KC
+L 20-34	13
+RB	Devonta Freeman, Atl RB
+@TB
+L 19-23	9
+RB	Charcandrick West, KC RB
+@Oak
+W 34-20	3
+WR	Alshon Jeffery, Chi WR
+SF
+L 20-26	8
+WR	Brandon Marshall, NYJ WR
+@NYG
+W 23-20	20
+TE	Martellus Bennett, NE TE
+Phi
+L 28-35	1
+FLEX	Sammy Watkins, Buf WR
+Hou
+W 30-21	17
+D/ST	Packers D/ST D/ST
+@Det
+W 27-23	11
+K	Sebastian Janikowski, Oak K
+KC
+L 20-34	0
+Rob Gronkowski
+QB	Russell Wilson, Sea QB
+@Min
+W 38-7	36
+RB	Adrian Peterson, Min RB
+Sea
+L 7-38	1
+RB	Doug Martin, TB RB
+Atl
+W 23-19	13
+WR	DeAndre Hopkins, Hou WR
+@Buf
+L 21-30	14
+WR	Tyler Lockett, Sea WR
+@Min
+W 38-7	14
+TE	Jacob Tamme, Atl TE
+@TB
+L 19-23	2
+FLEX	Travis Benjamin, SD WR
+Den
+L 3-17	0
+D/ST	Cardinals D/ST D/ST
+@StL
+W 27-3	11
+K	Josh Brown, NYG K
+NYJ
+L 20-23	7
+Lesean McCoy
+QB	Andy Dalton, Cin QB
+@Cle
+W 37-3	23
+RB	Giovani Bernard, Cin RB
+@Cle
+W 37-3	2
+RB	Alfred Blue, Hou RB
+@Buf
+L 21-30	1
+WR	A.J. Green, Cin WR
+@Cle
+W 37-3	19
+WR	Emmanuel Sanders, Den WR
+@SD
+W 17-3	1
+TE	Jordan Reed, Wsh TE
+Dal
+L 16-19	3
+FLEX	Kamar Aiken, Bal WR
+@Mia
+L 13-15	4
+D/ST	Vikings D/ST D/ST
+Sea
+L 7-38	26
+K	Chandler Catanzaro, Ari K
+@StL
+W 27-3	9
+LeVeon Bell
+QB	Tyrod Taylor, Buf QB
+Hou
+W 30-21	29
+RB	DeAngelo Williams, Pit RB
+Ind
+W 45-10	15
+RB	C.J. Anderson, Den RB
+@SD
+W 17-3	5
+WR	T.Y. Hilton, Ind WR
+@Pit
+L 10-45	3
+WR	Larry Fitzgerald, Ari WR
+@StL
+W 27-3	5
+TE	Benjamin Watson, Bal TE
+@Mia
+L 13-15	9
+FLEX	Michael Crabtree, Oak WR
+KC
+L 20-34	10
+D/ST	Seahawks D/ST D/ST
+@Min
+W 38-7	18
+K	Justin Tucker, Bal K
+@Mia
+L 13-15	6
+Cam Newton
+QB	Cam Newton, Car QB
+@NO
+W 41-38	37
+RB	Lamar Miller, Hou RB
+@Buf
+L 21-30	10
+RB	Todd Gurley, StL RB
+Ari
+L 3-27	4
+WR	Jarvis Landry, Mia WR
+Bal
+W 15-13	0
+WR	Tavon Austin, StL WR
+Ari
+L 3-27	6
+TE	Greg Olsen, Car TE
+@NO
+W 41-38	11
+FLEX	Gary Barnidge, Cle TE
+Cin
+L 3-37	5
+D/ST	Patriots D/ST D/ST
+Phi
+L 28-35	8
+K	Blair Walsh, Min K
+Sea
+L 7-38	1
+DeAndre Hopkins
+QB	Ben Roethlisberger, Pit QB
+Ind
+W 45-10	37
+RB	Eddie Lacy, GB RB
+@Det
+W 27-23	0
+RB	Jonathan Stewart, Car RB
+@NO
+W 41-38	15
+WR	Antonio Brown, Pit WR
+Ind
+W 45-10	37
+WR	Danny Amendola, NE WR
+Phi
+L 28-35	13
+TE	Kyle Rudolph, Min TE
+Sea
+L 7-38	1
+FLEX	Matt Forte, NYJ RB
+@NYG
+W 23-20	17
+D/ST	Bengals D/ST D/ST
+@Cle
+W 37-3	18
+K	Dan Bailey, Dal K
+@Wsh
+W 19-16	15
+Adrian Peterson
+QB	Aaron Rodgers, GB QB
+@Det
+W 27-23	27
+RB	Jeremy Hill, Cin RB
+@Cle
+W 37-3	15
+RB	Melvin Gordon, SD RB
+Den
+L 3-17	3
+WR	Amari Cooper, Oak WR
+KC
+L 20-34	6
+WR	Eric Decker, NYJ WR
+@NYG
+W 23-20	11
+TE	Delanie Walker, Ten TE
+Jax
+W 42-39	15
+FLEX	Calvin Johnson, Det WR
+GB
+L 23-27	10
+D/ST	Jets D/ST D/ST
+@NYG
+W 23-20	14
+K	Caleb Sturgis, Phi K
+@NE
+W 35-28	5
+Aaron Rodgers
+QB	Eli Manning, NYG QB
+NYJ
+L 20-23	16
+RB	Mark Ingram, NO RB
+Car
+L 38-41	15
+RB	LeGarrette Blount, NE RB
+Phi
+L 28-35	5
+WR	Julio Jones, Atl WR
+@TB
+L 19-23	9
+WR	Martavis Bryant, Pit WR
+Ind
+W 45-10	21
+TE	Julius Thomas, Jax TE
+@Ten
+L 39-42	7
+FLEX	Javorius Allen, Bal RB
+@Mia
+L 13-15	24
+D/ST	Texans D/ST D/ST
+@Buf
+L 21-30	1
+K	Steven Hauschka, Sea K
+@Min
+W 38-7	8
+Adrian Peterson
+QB	Aaron Rodgers, GB QB
+Dal
+W 28-7	18
+RB	Jeremy Hill, Cin RB
+Pit
+L 20-33	1
+RB	Melvin Gordon, SD RB
+@KC
+L 3-10	5
+WR	Amari Cooper, Oak WR
+@Den
+W 15-12	0
+WR	Eric Decker, NYJ WR
+Ten
+W 30-8	14
+TE	Delanie Walker, Ten TE
+@NYJ
+L 8-30	7
+FLEX	Calvin Johnson, Det WR
+@StL
+L 14-21	1
+D/ST	Jets D/ST D/ST
+Ten
+W 30-8	15
+K	Caleb Sturgis, Phi K
+Buf
+W 23-20	13
+Tom Brady
+QB	Blake Bortles, Jax QB
+Ind
+W 51-16	28
+RB	David Johnson, Ari RB
+Min
+W 23-20	12
+RB	Thomas Rawls, Sea RB
+@Bal
+W 35-6	4
+WR	Demaryius Thomas, Den WR
+Oak
+L 12-15	7
+WR	Allen Robinson, Jax WR
+Ind
+W 51-16	6
+TE	Travis Kelce, KC TE
+SD
+W 10-3	1
+FLEX	Chris Ivory, Jax RB
+Ind
+W 51-16	11
+D/ST	Chiefs D/ST D/ST
+SD
+W 10-3	18
+K	Graham Gano, Car K
+Atl
+W 38-0	8
+Tom Brady
+QB	Blake Bortles, Jax QB
+Atl
+L 17-23	23
+RB	Chris Ivory, Jax RB
+Atl
+L 17-23	3
+RB	David Johnson, Ari RB
+@Phi
+W 40-17	42
+WR	Demaryius Thomas, Den WR
+@Pit
+L 27-34	18
+WR	Allen Robinson, Jax WR
+Atl
+L 17-23	11
+TE	Travis Kelce, KC TE
+@Bal
+W 34-14	7
+FLEX	Tim Hightower, NO RB
+Det
+L 27-35	8
+D/ST	Chiefs D/ST D/ST
+@Bal
+W 34-14	22
+K	Graham Gano, Car K
+@NYG
+W 38-35	8
+LeVeon Bell
+QB	Tyrod Taylor, Buf QB
+@Wsh
+L 25-35	27
+RB	DeAngelo Williams, Pit RB
+Den
+W 34-27	11
+RB	Denard Robinson, Jax RB
+Atl
+L 17-23	8
+WR	T.Y. Hilton, Ind WR
+Hou
+L 10-16	2
+WR	Larry Fitzgerald, Ari WR
+@Phi
+W 40-17	4
+TE	Benjamin Watson, Bal TE
+KC
+L 14-34	10
+FLEX	Michael Crabtree, Oak WR
+GB
+L 20-30	7
+D/ST	Seahawks D/ST D/ST
+Cle
+W 30-13	19
+K	Justin Tucker, Bal K
+KC
+L 14-34	2
+Allen Robinson
+QB	Carson Palmer, Ari QB
+@Phi
+W 40-17	14
+RB	LeSean McCoy, Buf RB
+@Wsh
+L 25-35	2
+RB	Darren McFadden, Dal RB
+NYJ
+L 16-19	12
+WR	Odell Beckham Jr., NYG WR
+Car
+L 35-38	15
+WR	Doug Baldwin, Sea WR
+Cle
+W 30-13	16
+TE	Richard Rodgers, GB TE
+@Oak
+W 30-20	0
+FLEX	Latavius Murray, Oak RB
+GB
+L 20-30	7
+D/ST	Steelers D/ST D/ST
+Den
+W 34-27	11
+K	Stephen Gostkowski, NE K
+Ten
+W 33-16	16
+Rob Gronkowski
+QB	Russell Wilson, Sea QB
+Cle
+W 30-13	25
+RB	Adrian Peterson, Min RB
+Chi
+W 38-17	6
+RB	Doug Martin, TB RB
+@StL
+L 23-31	9
+WR	DeAndre Hopkins, Hou WR
+@Ind
+W 16-10	9
+WR	Tyler Lockett, Sea WR
+Cle
+W 30-13	20
+TE	Rob Gronkowski, NE TE
+Ten
+W 33-16	11
+FLEX	Golden Tate, Det WR
+@NO
+W 35-27	18
+D/ST	Cardinals D/ST D/ST
+@Phi
+W 40-17	20
+K	Josh Brown, NYG K
+Car
+L 35-38	5
+Tom Brady
+QB	Blake Bortles, Jax QB
+@NO
+L 27-38	32
+RB	David Johnson, Ari RB
+GB
+W 38-8	17
+RB	Tim Hightower, NO RB
+Jax
+W 38-27	29
+WR	Demaryius Thomas, Den WR
+Cin
+W 20-17	5
+WR	Allen Robinson, Jax WR
+@NO
+L 27-38	25
+TE	Travis Kelce, KC TE
+Cle
+W 17-13	10
+FLEX	Chris Ivory, Jax RB
+@NO
+L 27-38	3
+D/ST	Chiefs D/ST D/ST
+Cle
+W 17-13	14
+K	Graham Gano, Car K
+@Atl
+L 13-20	8
+Rob Gronkowski
+QB	Russell Wilson, Sea QB
+StL
+L 17-23	18
+RB	Adrian Peterson, Min RB
+NYG
+W 49-17	18
+RB	Doug Martin, TB RB
+Chi
+L 21-26	6
+WR	DeAndre Hopkins, Hou WR
+@Ten
+W 34-6	18
+WR	Tyler Lockett, Sea WR
+StL
+L 17-23	15
+TE	Rob Gronkowski, NE TE
+@NYJ
+L 20-26	8
+FLEX	Ted Ginn Jr., Car WR
+@Atl
+L 13-20	0
+D/ST	Cardinals D/ST D/ST
+GB
+W 38-8	36
+K	Josh Brown, NYG K
+@Min
+L 17-49	5
