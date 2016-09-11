@@ -1,5 +1,5 @@
 import sys
-from conf.py import *
+from conf import *
 
 if len(sys.argv) == 2:
     year = sys.argv[1]
@@ -84,7 +84,7 @@ if len(sys.argv) == 2:
           week = week + 1
       elif week == 15 and trueCount % 112 == 0:
           week = week + 1
-      elif week == 14 and trueCount % ( ( (1 + 3 * numOfPlayers) * len(managers) ) + (1 + 3 * numOfPlayers) * getNumTeamsInRoundOneOfPlayoffs ) == 0:
+      elif week == 14 and trueCount % ( ( (1 + 3 * numOfPlayers) * len(managers) ) + (1 + 3 * numOfPlayers) * getNumTeamsInRoundOneOfPlayoffs() ) == 0:
           week = week + 1
 else:
     print "Wrong Arguments. Please input year"
