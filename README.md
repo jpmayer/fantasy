@@ -7,9 +7,11 @@ https://www.reddit.com/r/fantasyfootball/comments/526bhh/espn_leagues_add_nice_l
 CLI commands:
 
 python parseOldYear.py [year] > [filename]
+
 python parseOldYear.py 2013 > temp.txt
 
 python parseYear.py [year] > [filename]
+
 python parseYear.py 2015 > temp.txt
 
 python allTimeWins.py
