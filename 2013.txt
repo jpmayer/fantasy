@@ -250,7 +250,7 @@ W 23-17	10
 Stephen Gostkowski, NE K
 @Buf
 W 23-21	12
-Heather the Terrible
+Adrian Peterson
 Ben Roethlisberger, Pit QB
 Ten
 L 9-16	7
@@ -306,7 +306,7 @@ L 24-31	6
 Arian Foster, Hou RB
 Ten
 W 30-24	15
-Heather the Terrible
+Adrian Peterson
 Ben Roethlisberger, Pit QB
 @Cin
 L 10-20	12
@@ -698,7 +698,7 @@ L 21-37	9
 Montee Ball, Den RB
 Oak
 W 37-21	4
-Heather the Terrible
+Adrian Peterson
 Ben Roethlisberger, Pit QB
 Chi
 L 23-40	18
