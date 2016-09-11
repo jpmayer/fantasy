@@ -1,5 +1,5 @@
 import sys
-from conf.py import *
+from conf import *
 
 lines = [line.rstrip('\n') for line in open(str(sys.argv[1]))]
 count = 0
