@@ -5,6 +5,7 @@ Tutorial here:
 https://www.reddit.com/r/fantasyfootball/comments/526bhh/espn_leagues_add_nice_looking_htmlcss_power/
 
 CLI commands:
+
 python parseOldYear.py [year] > [filename]
 python parseOldYear.py 2013 > temp.txt
 
