@@ -12,7 +12,10 @@ def getMostPointsGame():
     c.execute('SELECT manager, score, year, week, vs FROM {tn} ORDER BY {cn} DESC LIMIT 1'.\
             format(tn=matchupData, cn='score'))
     top_game = c.fetchone()
-    return (str(top_game[0]), top_game[1], top_game[2], top_game[3], str(top_game[4]))
+    if top_game is None:
+        return ("N/A",0,"N/A","N/A","N/A")
+    else:
+        return (str(top_game[0]), top_game[1], top_game[2], top_game[3], str(top_game[4]))
 
 def getMostPointsSeason():
     "Return Most Points Scored in a Season by a Manager (excludes playoffs)"
@@ -27,25 +30,34 @@ def getMostPointsSeason():
                 pysMap[key] = pysMap[key] + game[1]
             else:
                 pysMap[key] = game[1]
-    score = pysMap[max(pysMap.iteritems(), key=operator.itemgetter(1))[0]]
-    ownerYear = max(pysMap.iteritems(), key=operator.itemgetter(1))[0].split("-")
-    owner = ownerYear[0]
-    year = ownerYear[1]
-    return (owner, year, score)
+    if len(pysMap) > 0:
+        score = pysMap[max(pysMap.iteritems(), key=operator.itemgetter(1))[0]]
+        ownerYear = max(pysMap.iteritems(), key=operator.itemgetter(1))[0].split("-")
+        owner = ownerYear[0]
+        year = ownerYear[1]
+        return (owner, year, score)
+    else:
+        return ("N/A","N/A",0)
 
 def getMostPointsMatchup():
     "Return Most Points Scored in a Game between both Managers"
     c.execute('SELECT manager, matchupTotal, score, year, week, vs, winLoss, isHomeGame FROM {tn} ORDER BY {cn} DESC LIMIT 1'.\
             format(tn=matchupData, cn='matchupTotal'))
     top_game = c.fetchone()
-    return (str(top_game[0]), top_game[1], top_game[2], top_game[3], str(top_game[4]), str(top_game[5]), str(top_game[6]), top_game[7])
+    if top_game is None:
+        return ("N/A",0,0,"N/A","N/A","N/A","N/A","N/A")
+    else:
+        return (str(top_game[0]), top_game[1], top_game[2], top_game[3], str(top_game[4]), str(top_game[5]), str(top_game[6]), top_game[7])
 
 def getLeastPointsGame():
     "Return Least Points Scored in a Game by a Manager"
     c.execute('SELECT manager, score, year, week, vs FROM {tn} ORDER BY {cn} ASC LIMIT 1'.\
             format(tn=matchupData, cn='score'))
     top_game = c.fetchone()
-    return (str(top_game[0]), top_game[1], top_game[2], top_game[3], str(top_game[4]))
+    if top_game is None:
+        return ("N/A",0,"N/A","N/A","N/A")
+    else:
+        return (str(top_game[0]), top_game[1], top_game[2], top_game[3], str(top_game[4]))
 
 def getLeastPointsSeason():
     "Return Least Points Scored in a Season by a Manager (excludes playoffs)"
@@ -60,22 +72,28 @@ def getLeastPointsSeason():
                 pysMap[key] = { 'name': str(game[0]), 'year': str(game[2]), 'count': pysMap[key].get('count') + game[1], 'numGames': pysMap[key].get('numGames') + 1 }
             else:
                 pysMap[key] = { 'name': str(game[0]), 'year': str(game[2]), 'count': game[1], 'numGames': 1 }
-    minSeason = { 'count': 9999, 'numGames': 13}
-    for seasonKey in pysMap:
-        if pysMap[seasonKey].get('numGames') == 13:
-            if pysMap[seasonKey].get('count') < minSeason.get('count'):
-                minSeason = pysMap[seasonKey]
-    score = minSeason.get('count')
-    owner = minSeason.get('name')
-    year = minSeason.get('year')
-    return (owner, year, score)
+    if len(pysMap) > 0:
+        minSeason = { 'count': 9999, 'numGames': 13}
+        for seasonKey in pysMap:
+            if pysMap[seasonKey].get('numGames') == 13:
+                if pysMap[seasonKey].get('count') < minSeason.get('count'):
+                    minSeason = pysMap[seasonKey]
+        score = minSeason.get('count')
+        owner = minSeason.get('name')
+        year = minSeason.get('year')
+        return (owner, year, score)
+    else:
+        return ("N/A","N/A",0)
 
 def getLeastPointsMatchup():
     "Return Least Points Scored in a Game between both Managers"
     c.execute('SELECT manager, matchupTotal, score, year, week, vs, winLoss, isHomeGame FROM {tn} ORDER BY {cn} ASC LIMIT 1'.\
             format(tn=matchupData, cn='matchupTotal'))
     top_game = c.fetchone()
-    return (str(top_game[0]), top_game[1], top_game[2], top_game[3], str(top_game[4]), str(top_game[5]), str(top_game[6]), top_game[7])
+    if top_game is None:
+        return ("N/A",0,0,"N/A","N/A","N/A","N/A","N/A")
+    else:
+        return (str(top_game[0]), top_game[1], top_game[2], top_game[3], str(top_game[4]), str(top_game[5]), str(top_game[6]), top_game[7])
 
 def getMostPointsAllowedSeason():
     "Return Most Points Scored Against a Manager in a Season (excludes playoffs)"
@@ -90,15 +108,18 @@ def getMostPointsAllowedSeason():
                 pysMap[key] = { 'name': str(game[0]), 'year': str(game[2]), 'count': pysMap[key].get('count') + game[1], 'numGames': pysMap[key].get('numGames') + 1 }
             else:
                 pysMap[key] = { 'name': str(game[0]), 'year': str(game[2]), 'count': game[1], 'numGames': 1 }
-    maxSeason = { 'count': 0, 'numGames': 13}
-    for seasonKey in pysMap:
-        if pysMap[seasonKey].get('numGames') == 13:
-            if pysMap[seasonKey].get('count') > maxSeason.get('count'):
-                maxSeason = pysMap[seasonKey]
-    score = maxSeason.get('count')
-    owner = maxSeason.get('name')
-    year = maxSeason.get('year')
-    return (owner, year, score)
+    if len(pysMap) > 0:
+        maxSeason = { 'count': 0, 'numGames': 13}
+        for seasonKey in pysMap:
+            if pysMap[seasonKey].get('numGames') == 13:
+                if pysMap[seasonKey].get('count') > maxSeason.get('count'):
+                    maxSeason = pysMap[seasonKey]
+        score = maxSeason.get('count')
+        owner = maxSeason.get('name')
+        year = maxSeason.get('year')
+        return (owner, year, score)
+    else:
+        return ("N/A","N/A",0)
 
 def getFewestPointsAllowedSeason():
     "Return Most Points Scored Against a Manager in a Season (excludes playoffs)"
@@ -113,92 +134,103 @@ def getFewestPointsAllowedSeason():
                 pysMap[key] = { 'name': str(game[0]), 'year': str(game[2]), 'count': pysMap[key].get('count') + game[1], 'numGames': pysMap[key].get('numGames') + 1 }
             else:
                 pysMap[key] = { 'name': str(game[0]), 'year': str(game[2]), 'count': game[1], 'numGames': 1 }
-    minSeason = { 'count': 9999, 'numGames': 13}
-    for seasonKey in pysMap:
-        if pysMap[seasonKey].get('numGames') == 13:
-            if pysMap[seasonKey].get('count') < minSeason.get('count'):
-                minSeason = pysMap[seasonKey]
-    score = minSeason.get('count')
-    owner = minSeason.get('name')
-    year = minSeason.get('year')
-    return (owner, year, score)
+    if len(pysMap) > 0:
+        minSeason = { 'count': 9999, 'numGames': 13}
+        for seasonKey in pysMap:
+            if pysMap[seasonKey].get('numGames') == 13:
+                if pysMap[seasonKey].get('count') < minSeason.get('count'):
+                    minSeason = pysMap[seasonKey]
+        score = minSeason.get('count')
+        owner = minSeason.get('name')
+        year = minSeason.get('year')
+        return (owner, year, score)
+    return ("N/A","N/A",0)
 
 def getLongestWinStreak():
     "Return Longest Win Streak(s) by a Manager"
     c.execute('SELECT manager, year, week, winLoss FROM {tn} ORDER BY manager ASC, year ASC, week ASC'.\
             format(tn=matchupData))
     all_rows = c.fetchall()
-    topWinStreak = []
-    winStreaks = []
-    currentStreak = []
-    isWinning = -1;
-    currentManager = all_rows[0][0]
-    for game in all_rows:
-        if(game[0] != currentManager):
-            currentStreak = []
-            isWinning = -1
-            currentManager = game[0]
-        if game[3] == 'win':
-            if isWinning == 1:
-                currentStreak.append(game)
+    if len(all_rows) == 0:
+        return []
+    else:
+        topWinStreak = []
+        winStreaks = []
+        currentStreak = []
+        isWinning = -1;
+        currentManager = all_rows[0][0]
+        for game in all_rows:
+            if(game[0] != currentManager):
+                currentStreak = []
+                isWinning = -1
+                currentManager = game[0]
+            if game[3] == 'win':
+                if isWinning == 1:
+                    currentStreak.append(game)
+                else:
+                    currentStreak = [game]
+                    isWinning = 1
+            elif game[3] == 'loss':
+                isWinning = 0
+                currentStreak = []
             else:
-                currentStreak = [game]
-                isWinning = 1
-        elif game[3] == 'loss':
-            isWinning = 0
-            currentStreak = []
-        else:
-            isWinning = 2
-            currentStreak = []
-        if len(currentStreak) == len(topWinStreak):
-            if currentStreak not in winStreaks:
-                winStreaks.append(currentStreak)
-        elif len(currentStreak) > len(topWinStreak):
-            topWinStreak = currentStreak
-            winStreaks = [topWinStreak]
-    return winStreaks
+                isWinning = 2
+                currentStreak = []
+            if len(currentStreak) == len(topWinStreak):
+                if currentStreak not in winStreaks:
+                    winStreaks.append(currentStreak)
+            elif len(currentStreak) > len(topWinStreak):
+                topWinStreak = currentStreak
+                winStreaks = [topWinStreak]
+        return winStreaks
 
 def getLongestLosingStreak():
     "Return Longest Losing Streak(s) by a Manager"
     c.execute('SELECT manager, year, week, winLoss FROM {tn} ORDER BY manager ASC, year ASC, week ASC'.\
             format(tn=matchupData))
     all_rows = c.fetchall()
-    topLosingStreak = []
-    losingStreaks = []
-    currentStreak = []
-    isWinning = -1;
-    currentManager = all_rows[0][0]
-    for game in all_rows:
-        if(game[0] != currentManager):
-            currentStreak = []
-            isWinning = -1
-            currentManager = game[0]
-        if game[3] == 'win':
-            isWinning = 1
-            currentStreak = []
-        elif game[3] == 'loss':
-            if isWinning == 0:
-                currentStreak.append(game)
+    if len(all_rows) == 0:
+        return []
+    else:
+        topLosingStreak = []
+        losingStreaks = []
+        currentStreak = []
+        isWinning = -1;
+        currentManager = all_rows[0][0]
+        for game in all_rows:
+            if(game[0] != currentManager):
+                currentStreak = []
+                isWinning = -1
+                currentManager = game[0]
+            if game[3] == 'win':
+                isWinning = 1
+                currentStreak = []
+            elif game[3] == 'loss':
+                if isWinning == 0:
+                    currentStreak.append(game)
+                else:
+                    currentStreak = [game]
+                    isWinning = 0
             else:
-                currentStreak = [game]
-                isWinning = 0
-        else:
-            isWinning = 2
-            currentStreak = []
-        if len(currentStreak) == len(topLosingStreak):
-            if currentStreak not in losingStreaks:
-                losingStreaks.append(currentStreak)
-        elif len(currentStreak) > len(topLosingStreak):
-            topLosingStreak = currentStreak
-            losingStreaks = [topLosingStreak]
-    return losingStreaks
+                isWinning = 2
+                currentStreak = []
+            if len(currentStreak) == len(topLosingStreak):
+                if currentStreak not in losingStreaks:
+                    losingStreaks.append(currentStreak)
+            elif len(currentStreak) > len(topLosingStreak):
+                topLosingStreak = currentStreak
+                losingStreaks = [topLosingStreak]
+        return losingStreaks
 
 def getMostPointsPlayerGame():
     "Return Most Points Scored in a Game by an NFL Player"
     c.execute('SELECT player, playerPosition, score, year, week, manager FROM {tn} ORDER BY {cn} DESC LIMIT 1'.\
             format(tn=playerData, cn='score'))
     top_game = c.fetchone()
-    return (str(top_game[0]), str(top_game[1]), top_game[2], top_game[3], top_game[4], str(top_game[5]))
+    if top_game is None:
+        return ("N/A","N/A",0,"N/A","N/A","N/A")
+    else:
+        return (str(top_game[0]), str(top_game[1]), top_game[2], top_game[3], top_game[4], str(top_game[5]))
 
 def getMostPointsPlayerSeason():
     "Return Most Points Scored in a Season by an NFL Player (excludes playoffs)"
@@ -213,11 +245,14 @@ def getMostPointsPlayerSeason():
                 pysMap[key] = pysMap[key] + game[2]
             else:
                 pysMap[key] = game[2]
-    score = pysMap[max(pysMap.iteritems(), key=operator.itemgetter(1))[0]]
-    playerYear = max(pysMap.iteritems(), key=operator.itemgetter(1))[0].split("-")
-    player = playerYear[0]
-    year = playerYear[1]
-    return (player, year, score)
+    if len(pysMap) > 0:
+        score = pysMap[max(pysMap.iteritems(), key=operator.itemgetter(1))[0]]
+        playerYear = max(pysMap.iteritems(), key=operator.itemgetter(1))[0].split("-")
+        player = playerYear[0]
+        year = playerYear[1]
+        return (player, year, score)
+    else:
+        return ("N/A","N/A",0)
 
 def generateStreakYearsString(streaks):
     stringResults = ""
@@ -285,7 +320,7 @@ resultString = resultString + "<tr> <td class='recordType even'>Fewest Points (M
 resultString = resultString + "<tr> <td class='recordType odd'>Most Points Allowed (S) </td><td class='center even'>" + str(mPAS[2]) + "</td><td class='center even' >" + str(mPAS[0]) + " - " + str(mPAS[1]) + "</td></tr>"
 resultString = resultString + "<tr> <td class='recordType even'>Fewest Points Allowed (S) </td><td class='center even'>" + str(fPAS[2]) + "</td><td class='center even' >" + str(fPAS[0]) + " - " + str(fPAS[1]) + "</td></tr>"
 resultString = resultString + "<tr> <td class='recordType odd'>Longest Win Streak </td><td class='center odd'>" + str(streakLength) + "</td><td class='center odd' title='" + str(winStreakYears) + "'>" + str(winStreakOwners) + "</td></tr>"
-resultString = resultString + "<tr> <td class='recordType even'>Longest Losing Streak </td><td class='center even'>" + str(len(lLS[0])) + "</td><td class='center even' title='" + str(losingStreakYears) + "'>" + str(losingStreakManagers) + "</td></tr>"
+resultString = resultString + "<tr> <td class='recordType even'>Longest Losing Streak </td><td class='center even'>" + str(losingStreakLength) + "</td><td class='center even' title='" + str(losingStreakYears) + "'>" + str(losingStreakManagers) + "</td></tr>"
 resultString = resultString + "<tr> <td class='recordType odd'>Most Points-Player (G) </td><td class='center odd'>" + str(mPPlG[2]) + "</td><td class='center odd' title='" + str(mPPlG[3]) + " - Week " + str(mPPlG[4]) + "; Owner: " + str(mPPlG[5]) + "'>" + str(mPPlG[0]) + "</td></tr>"
 resultString = resultString + "<tr> <td class='recordType even'>Most Points-Player (S) </td><td class='center even'>" + str(mPPlS[2]) + "</td><td class='center even'>" + str(mPPlS[0]) + " - " + str(mPPlS[1]) + "</td></tr>"
 resultString = resultString + "</table></div>"
