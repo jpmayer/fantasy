@@ -1,11 +1,14 @@
-from exampleManagers import managerInfo
+from managers import managerInfo
 
 #Date Settings
 year = 2016
-week = "Preseason" # Values - "Preseason", 1, 2, 3 ... 13
+week = 'Preseason' # Values - 'Preseason', 1, 2, 3 ... 13
 
 firstYear = 2013
 yearsCompleted = ['2013','2014','2015']
+
+#League History - Retired Manager list
+retiredManagers = ['Michael Vick']
 
 #League Settings
 numberOfTeams = 10
@@ -33,22 +36,22 @@ for manager in managerInfo:
     managers.append(manager.get('name'))
 
 def getShortenedName(manager):
-    "Return nickname for given manager"
+    'Return nickname for given manager'
     managerIndex = managers.index(manager)
     return managerInfo[managerIndex].get('nickname')
 
 def getLastYearPosition(manager):
-    "Return Last Years Final Standings position for given manager"
+    'Return Last Years Final Standings position for given manager'
     managerIndex = managers.index(manager)
-    return "Last Year: " + str(managerInfo[managerIndex].get('lastYearPosition'))
+    return 'Last Year: ' + str(managerInfo[managerIndex].get('lastYearPosition'))
 
 def getPicture(manager):
-    "Return picture for given manager"
+    'Return picture for given manager'
     managerIndex = managers.index(manager)
     return managerInfo[managerIndex].get('picture')
 
 def getClubHouseLink(manager):
-    "Return club house link for given manager"
+    'Return club house link for given manager'
     managerIndex = managers.index(manager)
     return managerInfo[managerIndex].get('clubHouse')
 
