@@ -78,13 +78,13 @@ if len(sys.argv) == 2:
           print("INSERT INTO matchups (manager, week, year, vs, isHomeGame, winLoss, score, matchupTotal, pointDiff) VALUES ('" + awayManager + "', " + str(week) + ", " + str(year) + ", '" + homeManager + "', '" + str(0) + "', '" + awayWinLoss + "', '" + str(awayPlayerScore) + "', '" + str(homePlayerScore + homeFieldAdv + awayPlayerScore) + "', '" + str(awayPointDiff) + "');")
           awayPlayerScore = 0
           homePlayerScore = 0
-      if trueCount % ( (1 + 3 * numOfPlayers) * len(managers) ) == 0:
+      if trueCount % ( (1 + 3 * numOfPlayers) * numberOfTeams ) == 0:
           week = week + 1
       if week == 16 and trueCount % ( (1 + 3 * numOfPlayers) * 2 ) == 0:
           week = week + 1
       elif week == 15 and trueCount % 112 == 0:
           week = week + 1
-      elif week == 14 and trueCount % ( ( (1 + 3 * numOfPlayers) * len(managers) ) + (1 + 3 * numOfPlayers) * getNumTeamsInRoundOneOfPlayoffs() ) == 0:
+      elif week == 14 and trueCount % ( ( (1 + 3 * numOfPlayers) * numberOfTeams ) + (1 + 3 * numOfPlayers) * getNumTeamsInRoundOneOfPlayoffs() ) == 0:
           week = week + 1
 else:
     print "Wrong Arguments. Please input year"
