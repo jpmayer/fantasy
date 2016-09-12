@@ -8,6 +8,8 @@ c = conn.cursor()
 playerData = 'history'  # breakdown by player data
 matchupData = 'matchups'  # breakdown by matchup totals
 
+managers = managers + retiredManagers
+
 def getSacko(year):
     "Return League League Sacko Holder for Given Year"
     c.execute('SELECT manager, year, week, winLoss, score FROM {tn} WHERE year = {yr} AND week < 14 ORDER BY manager ASC, year ASC, week ASC'.\
