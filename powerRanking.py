@@ -343,7 +343,7 @@ print("")
 weekString = "0" if isinstance(week, str) else str(week)
 sqlCount = 1
 for manager in managers:
-    print('INSERT INTO rankings (manager, week, year, ranking, description) VALUES ("' + getManager(sqlCount) + '", ' + weekString + ', ' + str(year) + ', 1, "' + getDescription(sqlCount) + '");')
+    print('INSERT INTO rankings (manager, week, year, ranking, description) VALUES ("' + getManager(sqlCount) + '", ' + weekString + ', ' + str(year) + ', ' + str(sqlCount) + ', "' + getDescription(sqlCount) + '");')
     sqlCount = sqlCount + 1
 
 conn.commit()
