@@ -79,4 +79,4 @@ if len(sys.argv) == 2:
       elif week == 14 and trueCount % ( ( (1 + 3 * numOfPlayers) * numberOfTeams ) + (1 + 3 * numOfPlayers) * getNumTeamsInRoundOneOfPlayoffs() ) == 0:
           week = week + 1
 else:
-    print "Wrong Arguments. Please input year"
+    print("Wrong Arguments. Please input year")
