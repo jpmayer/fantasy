@@ -42,11 +42,11 @@ for line in lines:
         temp.pop(0)
         player = (" ").join(temp);
         morePlayerInfo = playerInfo[1].strip().split()
-        playerPos = morePlayerInfo[1].replace("Recent News",r"").replace("Breaking Video",r"").replace)("Breaking News",r"")
+        playerPos = morePlayerInfo[1].replace("Recent News",r"").replace("Breaking Video",r"").replace("Breaking News",r"")
     else:
         playerInfo = line.split();
         player = playerInfo[1] + " " + playerInfo[2]
-        playerPos = playerInfo[2].replace("Recent News",r"").replace("Breaking Video",r"").replace)("Breaking News",r"")
+        playerPos = playerInfo[2].replace("Recent News",r"").replace("Breaking Video",r"").replace("Breaking News",r"")
   count = count + 1
   trueCount = trueCount + 1
   if trueCount % 56 == 0:
