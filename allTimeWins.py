@@ -8,7 +8,7 @@ c = conn.cursor()
 playerData = 'history'  # breakdown by player data
 matchupData = 'matchups'  # breakdown by matchup totals
 
-managers = managers + retiredManagers
+managers += retiredManagers
 
 def getSacko(year):
     "Return League League Sacko Holder for Given Year"
